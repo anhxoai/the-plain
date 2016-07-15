@@ -7,7 +7,7 @@ Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www
 
 Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (khoảng 1 năm) với các bài tập của Beachbody như Insanity, P90X nhưng để đạt được thân hình như mong muốn thì việc đi đến phòng tập GYM là không thể tránh khỏi.
 
-**70kg - 1m67 11/07/2016**
+**WEEK 1 - 70kg - 1m67 11/07/2016**
 
 ![Hình trước khi tập](https://cloud.githubusercontent.com/assets/19565657/16832889/ad1d753a-49d6-11e6-85ec-9c3d4dc295b3.jpg)
 
