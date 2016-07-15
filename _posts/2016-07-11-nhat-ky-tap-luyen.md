@@ -38,3 +38,11 @@ Lịch tập 5 ngày/ tuần
  * Bent-Over Rear Delt raise - 5kg 6x6x6
  * 3 ab circuits- tốt hơn lần trước
 
+**Ngày 4: Thursday/ Legs**
+
+ * Barbell Squat - 52kg 6x6x6
+ * Leg Press - 70kg 6x6x6
+ * Romanian Deadlift - 50kg 6x6x6 lưng cong
+ * Leg Press Calf Raise thay bằng Standing Calf Raise - 50kg 3 sets
+ * Seated Calf Raise - 50kg 10x10x10 
+
