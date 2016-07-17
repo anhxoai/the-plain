@@ -46,3 +46,12 @@ Lịch tập 5 ngày/ tuần
  * Leg Press Calf Raise thay bằng Standing Calf Raise - 50kg 3 sets
  * Seated Calf Raise - 50kg 10x10x10 
 
+**Ngày 5: Friday/ Upper Body & Abs**
+
+ * Incline Barbell Bench Press -  30kg 10x10x10
+ * Barbell Curl - 20kg 6x6x6
+ * Close-Grip Bench Press - 40kg 6x6x6
+ * Alternating Dumbbell Curl - 12.5kg 6x5x4
+ * Seated Triceps Press - 17.5kg 6x6x6
+ * 3 ab circuits - bỏ tập vì ko có thời gian
+
