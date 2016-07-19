@@ -7,6 +7,28 @@ Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www
 
 Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (khoảng 1 năm) với các bài tập của Beachbody như Insanity, P90X nhưng để đạt được thân hình như mong muốn thì việc đi đến phòng tập GYM là không thể tránh khỏi.
 
+**WEEK 2**
+
+**70kg - 1m67 18/07/2016 - khả năng bị sụt cân**
+
+**Ngày 1: Monday Chest & Abs**
+
+ - Incline Barbell Bench Press - 50kg 6x6x6
+ - Incline Dumbbell Bench Press - 22.5 6x5x4
+ - Flat Barbell Bench Press - 50kg 6x6x6
+ - Face Pull - 25kg
+ - 3 Ab circuits
+
+**Ngày 2: Tuesday/ Back & Calves**
+
+ - Barbell Deadlift - 40kg 6x6x6 gãy form cần tập nhẹ
+ - Barbell Row - 40kg 6x6x6
+ - Wide-Grip Lat pull down - 25kg 3 sets tới khi mỏi
+ - Optional: Close-grip lat pulldown - 25kg 3 sets tới khi mỏi
+ - Optional: Barbell Shrug - 46kg 6x6
+ - Standing Calf Raise - 60kg 12x12x12
+ - Seated Calf Raise - 50kg 12x12x12
+
 **WEEK 1 - 70kg - 1m67 11/07/2016**
 
 ![Hình trước khi tập](https://cloud.githubusercontent.com/assets/19565657/16832889/ad1d753a-49d6-11e6-85ec-9c3d4dc295b3.jpg)
