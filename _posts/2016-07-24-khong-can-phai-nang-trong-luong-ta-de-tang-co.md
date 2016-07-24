@@ -21,4 +21,8 @@ Nhưng trong một nghiên cứu mới đây, kết quả cho thấy việc nân
  
  Và cuối cùng, một điều thú vị khác mà nghiên cứu này cũng cho thấy: những hormon tăng trưởng và testosterone được cho là những tác nhân quan trọng trong việc làm gia tăng cơ bắp, không làm ảnh hưởng đến kết quả của nghiên cứu.
  
+ Như vậy, thông điệp ở đây là gì?
+ 
+ >Chúng ta có thể đạt được cơ bắp chúng ta mong muốn với các kiểu luyện tập khác nhau và hơn hết là hãy ưu tiên sức khỏe của bạn trước. Và nếu bạn muốn to hơn, điều quan trọng không phải là bạn nâng nặng bao nhiêu mà hãy chắc rằng bạn đã cố gắng đến mức nào?
+ 
  
