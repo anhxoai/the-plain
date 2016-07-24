@@ -10,7 +10,7 @@ Nhưng trong một nghiên cứu mới đây, kết quả cho thấy việc nân
  * [You Don’t Need to Lift Heavy Weights to Build Muscle](http://vitals.lifehacker.com/you-don-t-need-to-lift-heavy-weights-to-build-muscle-1783854193?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow)
  * [Neither load nor systemic hormones determine resistance trained-mediated hypertrophy or strength gains in resistance trained young men](http://jap.physiology.org/content/jap/121/1/129.full.pdf) - Chi tiết báo cáo 
  
- Một nhà nghiên cứu người Canada chọn ra 49 người đàn ông đã có kinh nghiệm tập luyện trong hai năm. Có hai điểm chúng ta cần lưu ý trong nghiên cứu này: 
+ Một nhà nghiên cứu người Canada chọn ra 49 người đàn ông mà những người này đã có kinh nghiệm tập luyện trong hai năm. Ở đây có hai điểm chúng ta cần lưu ý: 
  
   1. Có nhiều đối tượng tham gia vào thực nghiệm hơn khi so với các cuộc nghiên cứu tương tự.
   2. Các đối tượng này không bị ảnh hưởng bởi hiệu ứng của người mới bắt đầu (theo như được biết thì những người mới bắt đầu luyện tập với tạ sẽ có tốc độ tăng cơ nhanh hơn so với những người đã tập một thời gian).
