@@ -3,9 +3,13 @@ layout: post
 title: Không cần phải nâng trọng lượng tạ để tăng cơ?
 tags: workout
 ---
+![nâng tạ](https://cloud.githubusercontent.com/assets/19565657/17083686/2724513e-51d2-11e6-861d-8258b5283bfb.JPG)
+
 Nâng tạ nặng hay nhẹ? với bao nhiêu lần là đủ? câu hỏi được hỏi rất nhiều lần và gây tranh cãi lâu nay. Một trong những kiến thức phổ biến được nhiều người tin tưởng ở thời điểm hiện nay đó là bạn cần phải tăng trọng lượng tạ, giảm số lần đẩy để cơ bắp thực sự tăng, theo như [Bigger Leaner Stronger](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG) bạn cần giảm số lần đẩy xuống còn 4 - 6 lần cho mỗi hiếp đẩy để thực sự làm cho cơ bắp phát triển và nếu làm ngược lại (giảm trọng lượng tạ tăng số lần đẩy) thì cơ bắp sẽ không tăng mà chuyển sang việc luyện tập sức bền (endurance).
 
-Nhưng trong một nghiên cứu mới đây, kết quả cho thấy việc nâng tạ nhẹ hay nặng, số lần đẩy nhiều hay ít điều không còn quan trọng nữa. 
+
+
+Trong một nghiên cứu mới đây, kết quả cho thấy việc nâng tạ nhẹ hay nặng, số lần đẩy nhiều hay ít điều không còn quan trọng nữa. 
 
  * [You Don’t Need to Lift Heavy Weights to Build Muscle](http://vitals.lifehacker.com/you-don-t-need-to-lift-heavy-weights-to-build-muscle-1783854193?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow)
  * [Neither load nor systemic hormones determine resistance trained-mediated hypertrophy or strength gains in resistance trained young men](http://jap.physiology.org/content/jap/121/1/129.full.pdf) - Chi tiết báo cáo 
