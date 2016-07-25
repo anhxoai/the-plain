@@ -29,6 +29,30 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
  - Standing Calf Raise - 60kg 12x12x12
  - Seated Calf Raise - 50kg 12x12x12
 
+**Ngày 3: Wednesday/ Shoulders & Abs**
+
+ - Seated Barbell Military Press - 24kg 6x6x6 tăng dần từ 20kg
+ - Side lateral Raise - 7.5kg 6x6x6 bình thường, không quá dễ cũng ki quá khó
+ - Bent-Over Rear Delt raise - 5kg sai form ở lần rồi chỉnh lại nên khá nặng
+ - 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
+
+**Ngày 4: Thursday/ Legs**
+
+ - Barbell Squat - 50kg tập nặng lưng dưới yếu bị cong
+ - Leg Press - 80kg 6x6x6
+ - Romanian Deadlift - 40kg 6x6x6 chỉnh form
+ - Leg Press Calf Raise thay bằng Standing Calf Raise - skip có việc
+ - Seated Calf Raise - skip có việc
+
+**Ngày 5: Friday/ Upper Body & Abs**
+
+ - Incline Barbell Bench Press -  40kg 9x9x8 (test dropset 30kgx11 20kgx10 10kgx12
+ - Barbell Curl - 20kg 7x7x7 (test dropset 16kgx9 10kgx10 6kgx13)
+ - Close-Grip Bench Press - 40kg 6x6x6
+ - Alternating Dumbbell Curl - 17.5 6x6x6
+ - Seated Triceps Press - 17.5 6x6x6 khó
+ - 3 ab circuits
+
 **WEEK 1 - 70kg - 1m67 11/07/2016**
 
 ![Hình trước khi tập](https://cloud.githubusercontent.com/assets/19565657/16832889/ad1d753a-49d6-11e6-85ec-9c3d4dc295b3.jpg)
