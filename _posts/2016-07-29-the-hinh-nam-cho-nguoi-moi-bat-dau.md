@@ -5,6 +5,8 @@ tags: workout
 ---
 Trong bài viết này tôi chỉ xin chia sẻ lại những hiểu biết của mình trong những ngày đầu luyện tập, mặc dù vẫn còn là một newbie nhưng các thông tin dưới đây được tổng hợp lại từ các nguồn đáng tin cậy và gần như là những điều cần biết mà nhiều người khi mới bắt đầu luyện tập nên biết.
 
+![thể hình cho người mới bắt đầu](https://cloud.githubusercontent.com/assets/19565657/17237584/bcf40868-557d-11e6-98fc-8c572c94923e.jpg)
+
 ### Nên tập gì là tốt nhất?
 
 Câu hỏi cơ bản mà người mới chơi nào cũng tự hỏi và thường ở các phòng gym chúng ta sẽ được một người hướng dẫn để chơi các động tác cơ bản mà chẳng hiểu vì sao lại là động tác này mà chẳng phải động tác kia và nó có tác dụng gì đối với bạn?
