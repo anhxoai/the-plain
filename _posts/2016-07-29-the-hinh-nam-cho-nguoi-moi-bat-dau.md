@@ -3,7 +3,7 @@ layout: post
 title: Thể hình nam cho người mới bắt đầu
 tags: workout
 ---
-Trong bài viết này tôi chỉ xin chia sẻ lại những hiểu biết của mình trong những ngày đầu luyện tập, mặc dù vẫn còn là một newbie nhưng các thông tin dưới đây được tổng hợp lại từ các nguồn đáng tin cậy và gần như là những điều cần biết mà nhiều người khi mới bắt đầu luyện tập nên biết.
+Trong bài viết này tôi chỉ xin chia sẻ lại những hiểu biết của mình trong những ngày đầu luyện tập, mặc dù vẫn còn là một newbie nhưng các thông tin dưới đây được tổng hợp lại từ các nguồn đáng tin cậy, là những điều cần biết cho những người mới.
 
 ![thể hình cho người mới bắt đầu](https://cloud.githubusercontent.com/assets/19565657/17237584/bcf40868-557d-11e6-98fc-8c572c94923e.jpg)
 
