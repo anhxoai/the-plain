@@ -13,45 +13,45 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
 
 **Ngày 1: Monday Chest & Abs**
 
-	* Incline Barbell Bench Press - 52kg 6x5x4
+ * Incline Barbell Bench Press - 52kg 6x5x4
  * Incline Dumbbell Bench Press - 20kg 6x6x6 hạ nặng không tập nổi trọng lượng cũ
-	* Flat Barbell Bench Press - 52kg 6x6x6
-	* Face Pull - 30kg
-	* 3 Ab circuits 
+ * Flat Barbell Bench Press - 52kg 6x6x6
+ * Face Pull - 30kg
+ * 3 Ab circuits 
 
 **Ngày 2: Tuesday/ Back & Calves**
 
  * Barbell Deadlift - 46kg 6x6x6 quá nặng sẽ làm cong lưng
-	* Barbell Row - 46kg 6x6x6
-	* Wide-Grip Lat pull down - 20kg 3 sets tới khi mỏi
-	* Optional: Close-grip lat pulldown - 30kg 3 sets tới khi mỏi
-	* Optional: Barbell Shrug - 46kg 6x6
-	* Standing Calf Raise - 80kg 
-	* Seated Calf Raise - 50kg
+ * Barbell Row - 46kg 6x6x6
+ * Wide-Grip Lat pull down - 20kg 3 sets tới khi mỏi
+ * Optional: Close-grip lat pulldown - 30kg 3 sets tới khi mỏi
+ * Optional: Barbell Shrug - 46kg 6x6
+ * Standing Calf Raise - 80kg 
+ * Seated Calf Raise - 50kg
 
 **Ngày 3: Wednesday/ Shoulders & Abs**
 
-	* Seated Barbell Military Press - 30kg 6x6x6 khá phê, đổi dàn tập nên nang kg
-	* Side lateral Raise - 7.5kg 6x6x6 cần tập trung về sau nhiều hơn 
-	* Bent-Over Rear Delt raise - 5kg 8x
-	* 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
+ * Seated Barbell Military Press - 30kg 6x6x6 khá phê, đổi dàn tập nên nang kg
+ * Side lateral Raise - 7.5kg 6x6x6 cần tập trung về sau nhiều hơn 
+ * Bent-Over Rear Delt raise - 5kg 8x
+ * 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
 
 **Ngày 4: Thursday/ Legs**
 
-	* Barbell Squat - 50kg 6x6x6 hoàn chỉnh tư thế
-	* Leg Press - 90kg 6x6x6 có thể lên 100
-	* Romanian Deadlift - 50kg 6x6x6 good process
-	* Leg Press Calf Raise thay bằng Standing Calf Raise - 90kg 10x10
-	* Seated Calf Raise - skip có việc
+ * Barbell Squat - 50kg 6x6x6 hoàn chỉnh tư thế
+ * Leg Press - 90kg 6x6x6 có thể lên 100
+ * Romanian Deadlift - 50kg 6x6x6 good process
+ * Leg Press Calf Raise thay bằng Standing Calf Raise - 90kg 10x10
+ * Seated Calf Raise - skip có việc
 
 **Ngày 5: Friday/ Upper Body & Abs**
 
-	* Incline Barbell Bench Press -  46kg 10x9x8
-	* Barbell Curl - 26kg 5x5x4
-	* Close-Grip Bench Press - 46kg 6x5x6
-	* Alternating Dumbbell Curl - 17.5 6x6x6
-	* Seated Triceps Press - 22.5 6x6x6 
-	* 3 ab circuits
+ * Incline Barbell Bench Press -  46kg 10x9x8
+ * Barbell Curl - 26kg 5x5x4
+ * Close-Grip Bench Press - 46kg 6x5x6
+ * Alternating Dumbbell Curl - 17.5 6x6x6
+ * Seated Triceps Press - 22.5 6x6x6 
+ * 3 ab circuits
 
 **WEEK 2**
 
