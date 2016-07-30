@@ -20,11 +20,11 @@ Bài tập **_compound_** (vận dụng nhiều nhóm cơ) và **_isolate_** (t�
 Vậy các bài tập compound là gì và quan trọng đến cỡ nào? Chúng ta có 5 bài compound chính.
 
 
-	* Squat ( quan trọng nhất, king of exercise)
-	* Deadlift
-	* Bench Press
-	* Bent Over Row
-	* Over Head Press
+	* [Squat](https://www.youtube.com/watch?v=t2b8UdqmlFs) ( quan trọng nhất, king of exercise)
+	* [Deadlift](https://www.youtube.com/watch?v=VrMfkZsvFWc)
+	* [Bench Press](https://www.youtube.com/watch?v=rT7DgCr-3pg)
+	* [Bent Over Row](https://www.youtube.com/watch?v=9efgcAjQe7E)
+	* [Over Head Press](https://www.youtube.com/watch?v=F3QY5vMz_6I)
 
 
 Thoạt nhìn thì đây cũng chỉ là những động tác bình thường mà bạn thường thấy nhưng nó khác ở chỗ những động tác này sẽ vận dụng rất nhiều các cơ, nhóm cơ trong cơ thể của bạn để đẩy tạ lên do đó bảo đảm được sự phát triển đều đặn của các nhóm cơ với nhau để tạo nên một khối vững chắc làm gia tăng sức mạnh tự nhiên (strength) mà ở các bài tập isolate không thể nào cung cấp được.
