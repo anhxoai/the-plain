@@ -63,6 +63,15 @@ Tham khảo thêm: [Stronglifts 5x5](http://stronglifts.com/)
 
 [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) - bài tập mà tôi đang theo, kết hợp giữa compound và isolate 5/5. Do khối lượng các bài tập khác nhau giữa các ngày khá nhiều nên có thể sẽ có một chút phức tạp cho người mới nhưng khi bạn đã quen thì đây có lẽ là bài tập cho bạn cảm giác khá đầy đủ. 
 
+### Nên tập tạ nặng với ít lần đẩy hay tạ nhẹ với nhiều lần đẩy hơn?
+
+Đây là câu hỏi gây tranh cãi nhiều trong giới thể hình nhưng tất cả đều mang tính chất tương đối, [trong một nghiên cứu mới gần đây](http://blog.duongphi.com/khong-can-phai-nang-trong-luong-ta-de-tang-co) lại chỉ ra rằng không có sự khác biệt nhiều giữa việc đẩy tạ nặng hay nhẹ mà quan trọng là cường độ của bài tập như thế nào. Tuy nhiên, cá nhân tôi lại cho rằng việc đẩy tạ nặng có lợi thế hơn trong việc tiết kiệm tối đa thời gian ở GYM mà vẫn đẩy cơ thể tới mức cực hạn để đạt được kết quả tối đa của bài tập. 
+
+*Việc chọn phương pháp luyện tập thế nào là do bạn nhưng bạn cần nắm rõ:*
+
+ * Nếu đẩy tạ nặng: bạn cần thường xuyên nâng trọng lượng tạ cho mỗi lần tập, lý tưởng là 2.5kg (1.25kg cho mỗi bên).
+ * Nếu đẩy tạ nhẹ: nên thiết lập lịch tập để đẩy một ngày tạ nặng định kỳ để đảm bảo sự phát triển của cơ.
+
 ### Không được tập quá nhiều, việc nghĩ ngơi rất quan trọng trong môn đẩy tạ
 
 "Cơ bắp của bạn phát triển bên ngoài GYM", khác với các môn thể thao khác, việc nghĩ ngơi khi chơi tạ là hết sức quan trọng để cơ bắp của bạn hoàn thiện và phát triển một cách tốt nhất. Bạn cần có một chế độ tập luyện hợp lý với sự phân chia các nhóm cơ tốt để tránh các bài tập trùng lặp làm ảnh hưởng đến sự phát triển của cơ.
