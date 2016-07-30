@@ -33,7 +33,7 @@ Nếu như chịu khó tìm hiểu các bài tập của những vận động v
 
 **Người mới tập đặc biệt cần tập trung nhiều hơn vào các bài compound, tại sao?**
 
-Là một người mới, bạn có một lợi thế hơn so với những người đã tập lâu năm đó là thời gian hồi phục cơ của người mới rất tốt do đó việc tận dụng các lợi thế này để xây dựng những bó cơ chính của bạn khỏe mạnh cũng như để đạt được mức to tối đa. 
+Là một người mới, bạn có một lợi thế hơn so với những người đã tập lâu năm đó là thời gian hồi phục cơ của người mới rất tốt cho nên việc tận dụng các lợi thế này để xây dựng những bó cơ chính của bạn khỏe mạnh cũng như để đạt được mức to tối đa. 
 
 Các bài compound một lần nữa phát huy tác dụng trong tình huống này, việc vận dụng kết hợp nhiều cơ khác nhau trong động tác giúp cơ thể phát triển khá đồng điều ở các nhóm cơ chính giúp bạn tăng nhanh với tốc độ tối đa, giảm khối lượng lớn thời gian tập luyện. (Nếu chia nhỏ các bài compound ra thành isolate thì khối lượng thời gian tập luyện sẽ là rất lớn mà không phải ai cũng có thể theo được).
 
