@@ -65,7 +65,7 @@ Tham khảo thêm: [Stronglifts 5x5](http://stronglifts.com/)
 
 ### Nên tập tạ nặng với ít lần đẩy hay tạ nhẹ với nhiều lần đẩy hơn?
 
-Đây là câu hỏi gây tranh cãi nhiều trong giới thể hình nhưng tất cả đều mang tính chất tương đối, [trong một nghiên cứu mới gần đây](http://blog.duongphi.com/khong-can-phai-nang-trong-luong-ta-de-tang-co) lại chỉ ra rằng không có sự khác biệt nhiều giữa việc đẩy tạ nặng hay nhẹ mà quan trọng là cường độ của bài tập như thế nào. Tuy nhiên, cá nhân tôi lại cho rằng việc đẩy tạ nặng có lợi thế hơn trong việc tiết kiệm tối đa thời gian ở GYM mà vẫn đẩy cơ thể tới mức cực hạn để đạt được kết quả tối đa của bài tập. 
+Đây là câu hỏi gây tranh cãi nhiều trong giới thể hình nhưng tất cả đều mang tính chất tương đối, [trong một nghiên cứu mới gần đây](http://blog.duongphi.com/khong-can-phai-nang-trong-luong-ta-de-tang-co) lại chỉ ra rằng *không có sự khác biệt nhiều giữa việc đẩy tạ nặng hay nhẹ* mà quan trọng là cường độ của bài tập như thế nào. Tuy nhiên, cá nhân tôi lại cho rằng việc đẩy tạ nặng có lợi thế hơn trong việc tiết kiệm tối đa thời gian ở GYM mà vẫn đẩy cơ thể tới mức cực hạn để đạt được kết quả tối đa của bài tập. 
 
 *Việc chọn phương pháp luyện tập thế nào là do bạn nhưng bạn cần nắm rõ:*
 
