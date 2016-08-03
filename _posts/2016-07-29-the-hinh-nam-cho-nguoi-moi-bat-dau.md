@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thể hình nam cho người mới bắt đầu
-tags: workout
+tags: nangta, tapluyen
 ---
 Trong bài viết này tôi chỉ xin chia sẻ lại những hiểu biết của mình trong những ngày đầu luyện tập, mặc dù vẫn còn là một newbie nhưng các thông tin dưới đây được tổng hợp lại từ các nguồn đáng tin cậy, là những điều cần biết cho những người mới.
 
@@ -17,13 +17,11 @@ Bài tập **_compound_** (vận dụng nhiều nhóm cơ) và **_isolate_** (t�
 
 Đa số ở các phòng gym Việt Nam hiện nay chúng ta điều mắc phải một sự nghịch lý lớn đó là bỏ qua các bài tập compound và tập trung nhiều ở những bài isolate ngoại trừ bài Bench Press. Trong khi các bài compound lại là xương sống của môn tập tạ mà hầu như nếu còn tập tạ thì bạn còn phải tập luyện những động tác này.
 
-Vậy các bài tập compound là gì và quan trọng đến cỡ nào? Chúng ta có 5 bài compound chính.
+Vậy các bài tập compound là gì và quan trọng đến cỡ nào? Chúng ta có 3 bài compound chính.
 
  * [Squat](https://www.youtube.com/watch?v=t2b8UdqmlFs) ( quan trọng nhất, king of exercise)
  * [Deadlift](https://www.youtube.com/watch?v=VrMfkZsvFWc)
  * [Bench Press](https://www.youtube.com/watch?v=rT7DgCr-3pg)
- * [Bent Over Row](https://www.youtube.com/watch?v=9efgcAjQe7E)
- * [Over Head Press](https://www.youtube.com/watch?v=F3QY5vMz_6I)
 
 Thoạt nhìn thì đây cũng chỉ là những động tác bình thường mà bạn thường thấy nhưng nó khác ở chỗ những động tác này sẽ vận dụng rất nhiều các cơ, nhóm cơ trong cơ thể của bạn để đẩy tạ lên do đó bảo đảm được sự phát triển đều đặn của các nhóm cơ với nhau để tạo nên một khối vững chắc làm gia tăng sức mạnh tự nhiên (strength) mà ở các bài tập isolate không thể nào cung cấp được.
 
