@@ -78,7 +78,7 @@ Tham khảo thêm: [Stronglifts 5x5](http://stronglifts.com/)
 
 Ngủ đủ, đóng vai trò then chốt ở đây, do đó hãy dẹp các buổi tiệc tùng thâu đêm và chắc rằng bạn ngủ trên 8 giờ/ ngày. Cơ bắp phát triển trong khi bạn ngủ đấy.
 
-Theo như Bigger Leaner Stronger các cơ bắp cần từ 2 - 6 ngày để hồi phục một cách hoàn toàn. Nếu như bạn để ý các bài tập của những người tập chuyên nghiệp thì sẽ thấy khối lượng các bài isolate sẽ rất nhiều và chia theo khối cơ theo từng ngày trong tuần ( ngực, lưng, vai, chân...) điều này là để đảm bảo không tập quá nhiều trên cùng một nhóm cơ gây tình trạng quá tải và không phát triển được.
+Theo như Bigger Leaner Stronger các cơ bắp cần từ 2 - 6 ngày để hồi phục một cách hoàn toàn. Nếu như bạn để ý các bài tập của những người tập chuyên nghiệp thì sẽ thấy khối lượng các bài isolate rất nhiều và chia từng nhóm cơ theo từng ngày trong tuần ( ngực, lưng, vai, chân...) điều này là để đảm bảo không tập quá nhiều trên cùng một nhóm cơ gây tình trạng quá tải và không phát triển được.
 
 ### Kỹ thuật, dáng tập là quan trọng nhất.
 
