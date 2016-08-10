@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Nâng tạ] Không cần phải nâng trọng lượng tạ để tăng cơ?
+title: Không cần phải nâng trọng lượng tạ để tăng cơ?
 tags: tapluyen, nangta
 ---
 ![nâng tạ](https://cloud.githubusercontent.com/assets/19565657/17083686/2724513e-51d2-11e6-861d-8258b5283bfb.JPG)
