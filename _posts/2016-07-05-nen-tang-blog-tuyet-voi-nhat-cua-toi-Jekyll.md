@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2016-07-05
 title: Nền tảng blog tuyệt vời của tôi Jekyll
 tags: Jekyll
 ---
