@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2016-06-21
 title: ElementaryOS những việc cần làm sau cài đặt và lỗi cần khắc phục
 category: 
 tags: linux
