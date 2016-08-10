@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2016-07-11
 title: Nhật ký tập luyện thể hình
 tags: tapluyen, nangta
 ---
