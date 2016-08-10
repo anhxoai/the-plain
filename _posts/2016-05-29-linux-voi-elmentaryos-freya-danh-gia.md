@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-05-29
+date: 2016-05-29
 title: Linux với Elementary OS Freya đánh giá
 category: Review
 tags: linux
