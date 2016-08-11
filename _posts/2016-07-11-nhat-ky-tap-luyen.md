@@ -8,6 +8,90 @@ Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www
 
 Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (khoảng 1 năm) với các bài tập của Beachbody như Insanity, P90X nhưng để đạt được thân hình như mong muốn thì việc đi đến phòng tập GYM là không thể tránh khỏi.
 
+**WEEK 5**
+
+*71kg - 08/08/2016 - bắt đầu tăng cân nhưng đổi ý vì sợ quá mập.*
+
+**Ngày 1: Monday Chest & Abs**
+
+ - Incline Barbell Bench Press - 45kg 6x5x4
+ - Incline Dumbbell Bench Press - 20kg 7x7x7 tuần rồi đẩy ko được là do góc độ ghế cao
+ - Flat Barbell Bench Press - 50kg 6x5x6
+ - Face Pull - 20kg 10x10x10
+ - 3 Ab circuits
+
+**Ngày 2: Tuesday/ Back & Calves**
+
+ - Barbell Deadlift - 60kg 6x6x6 form chuẩn tập ok
+ - Barbell Row - 47.5kg 6x6x6
+ - Wide-Grip Lat pull down - 34kg 6x6
+ - Optional: Close-grip lat pulldown - 34kg 3 sets tới khi mỏi
+ - Optional: Barbell Shrug - 50kg 6x6
+ - Standing Calf Raise - 130kg
+ - Seated Calf Raise - 50kg
+
+**Ngày 3: Wednesday/ Shoulders & Abs**
+
+ - Seated Barbell Military Press - 30kg 6x6x6 sai form chưa vào vai nhiều
+ - Side lateral Raise - 7.5kg 6x6x6 chỉnh lại form
+ - Bent-Over Rear Delt raise - 5kg 6x6x6 chỉnh lại form
+ - 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
+
+**WEEK 4**
+
+*70kg - 01/08/2016 - tập trung hơn vào dinh dưỡng, ăn nhiều hơn để bulking. Đổi phòng mới*
+
+**Ngày 1: Monday Chest & Abs**
+
+ - Incline Barbell Bench Press - 45kg 6x6x5
+ - Incline Dumbbell Bench Press - 20kg 4x4x4
+ - Flat Barbell Bench Press - 50kg 6x5x6
+ - Face Pull - 20kg 10x10x10
+ - 3 Ab circuits
+
+**Ngày 2: Tuesday/ Back & Calves**
+
+ - Barbell Deadlift - 45kg 6x6x6 form chuẩn tập ok
+ - Barbell Row - 45kg 6x6x6
+ - Wide-Grip Lat pull down - 29kg 3 sets tới khi mỏi
+ - Optional: Close-grip lat pulldown - 34kg 3 sets tới khi mỏi
+ - Optional: Barbell Shrug - 50kg 6x6
+ - Standing Calf Raise - 130kg
+ - Seated Calf Raise - 50kg
+
+**Ngày 3: Wednesday/ Shoulders & Abs**
+
+ - Seated Barbell Military Press - 30kg 6x6x6 đợt sau có thể lên 35kg
+ - Side lateral Raise - 10kg 6x6x6 có người support
+ - Bent-Over Rear Delt raise - 7.5kg 6x6x6
+ - 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
+
+**Ngày 4: Thursday/ Legs**
+
+ - Barbell Squat - 52.5kg 6x6x6 hoàn chỉnh tư thế
+ - Leg Press - 100kg 6x6x6 có thể lên tiếp
+ - Romanian Deadlift - 52.5kg 6x6x6 good process
+ - Leg Press Calf Raise  - 90kg to failure
+ - Standing Calf Ráie - 120kg to failure
+
+**Ngày 5: Friday/ Upper Body & Abs**
+
+ - Incline Barbell Bench Press -  40kg 8x9x8 đòn mới nặng hơn đòn cũ nên hạ nặng
+ - Barbell Curl - 25kg 6x6x6
+ - Close-Grip Bench Press - 40kg 6x66
+ - Alternating Dumbbell Curl - 15kg 6x6x6
+ - Seated Triceps Press - 25kg 6x6x6
+ - 3 ab circuits
+
+**Ngày 6: Saturday/ Extras**
+
+ - Squat - 55kg 6x6x6
+ - Deadlift 1x5 - 60kg
+ - Benchpress - 50kg 6x5x4
+ - Side Lateral Raise - 7.5kg 10x10x10
+ - Bent-Over Rear Delt Raise - 7.5kg 10x10x10
+ - Wide Grip Lat Pull Down - 29kg
+
 **WEEK 3**
 
 *70kg - 1m67 25/07/2016 - cơ thể khá mỏi mệt với cường độ luyện tập hiện tại, cần nghĩ ngơi thêm*
