@@ -12,7 +12,7 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
 
 ## Quang Bangs Workout
 
-[!Quang Bangs trước tập](https://cloud.githubusercontent.com/assets/19565657/17852071/75abaeb4-688f-11e6-8268-46438bcb8038.jpg)
+![Quang Bangs trước tập](https://cloud.githubusercontent.com/assets/19565657/17852071/75abaeb4-688f-11e6-8268-46438bcb8038.jpg)
 
 Bắt đầu từ 22/08/2016
 
