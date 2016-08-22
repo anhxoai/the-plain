@@ -4,9 +4,20 @@ date: 2016-07-11
 title: Nhật ký tập luyện thể hình
 tags: tapluyen, nangta
 ---
-Hiện tôi đang tập theo chương trình [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) trong quyển sách cùng tên của Michael Matthews, là một trong những quyển sách bán chạy nhất và có lượng đánh giá cao nhất ở mục thể hình (Fitness & Excercise/ Weight Lifting) của [Amazon](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG).
+Theo được 5 tuần bài [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) trong quyển sách cùng tên của Michael Matthews, là một trong những quyển sách bán chạy nhất và có lượng đánh giá cao nhất ở mục thể hình (Fitness & Excercise/ Weight Lifting) của [Amazon](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG).
+
+Từ 22/08/2016 chuyển sang tập theo bài của [Quang Bangs](https://www.facebook.com/QuangBangsFitness/?fref=ts), bài tập và chế độ ăn, chương trình kéo dài 12 tuần. 
 
 Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (khoảng 1 năm) với các bài tập của Beachbody như Insanity, P90X nhưng để đạt được thân hình như mong muốn thì việc đi đến phòng tập GYM là không thể tránh khỏi.
+
+## Quang Bangs Workout
+
+[!Quang Bangs trước tập](https://cloud.githubusercontent.com/assets/19565657/17852071/75abaeb4-688f-11e6-8268-46438bcb8038.jpg)
+
+Bắt đầu từ 22/08/2016
+
+---
+## Bigger Leaner Stronger
 
 **WEEK 5**
 
