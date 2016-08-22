@@ -37,6 +37,23 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
  - Bent-Over Rear Delt raise - 5kg 6x6x6 chỉnh lại form
  - 3 ab circuits - Cable Crunch 50kg, tập phê hơn.
 
+**Ngày 4: Thursday/ Legs**
+
+ * Barbell Squat - 57.5kg 6x6x6 hoàn chỉnh tư thế
+ * Leg Press - 120kg 6x6x6 có thể lên tiếp
+	* Romanian Deadlift - 60kg 6x6x6 good process
+	* Leg Press Calf Raise  - 90kg to failure
+	* Standing Calf Ráie - 120kg to failure
+
+**Ngày 5: Friday/ Upper Body & Abs**
+
+	* Incline Barbell Bench Press -  40kg 8x8x8 hơi mệt
+	* Barbell Curl - 25kg 7x6x6
+	* Close-Grip Bench Press - 40kg 6x6x6
+	* Alternating Dumbbell Curl - 12.5kg 6x6x6
+	* Seated Triceps Press - 20kg 6x6x6 
+	* 3 ab cỉcuits - skipped
+
 **WEEK 4**
 
 *70kg - 01/08/2016 - tập trung hơn vào dinh dưỡng, ăn nhiều hơn để bulking. Đổi phòng mới*
