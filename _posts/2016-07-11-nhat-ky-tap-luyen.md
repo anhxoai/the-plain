@@ -41,18 +41,18 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
 
  * Barbell Squat - 57.5kg 6x6x6 hoàn chỉnh tư thế
  * Leg Press - 120kg 6x6x6 có thể lên tiếp
-	* Romanian Deadlift - 60kg 6x6x6 good process
-	* Leg Press Calf Raise  - 90kg to failure
-	* Standing Calf Ráie - 120kg to failure
+ * Romanian Deadlift - 60kg 6x6x6 good process
+ * Leg Press Calf Raise  - 90kg to failure
+ * Standing Calf Ráie - 120kg to failure
 
 **Ngày 5: Friday/ Upper Body & Abs**
 
-	* Incline Barbell Bench Press -  40kg 8x8x8 hơi mệt
-	* Barbell Curl - 25kg 7x6x6
-	* Close-Grip Bench Press - 40kg 6x6x6
-	* Alternating Dumbbell Curl - 12.5kg 6x6x6
-	* Seated Triceps Press - 20kg 6x6x6 
-	* 3 ab cỉcuits - skipped
+ * Incline Barbell Bench Press -  40kg 8x8x8 hơi mệt
+ * Barbell Curl - 25kg 7x6x6
+ * Close-Grip Bench Press - 40kg 6x6x6
+ * Alternating Dumbbell Curl - 12.5kg 6x6x6
+ * Seated Triceps Press - 20kg 6x6x6 
+ * 3 ab cỉcuits - skipped
 
 **WEEK 4**
 
