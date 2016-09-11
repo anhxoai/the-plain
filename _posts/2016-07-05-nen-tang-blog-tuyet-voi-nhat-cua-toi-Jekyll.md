@@ -35,7 +35,7 @@ Cá nhân tôi đã bị hack khoảng ba lần khi đặt blog lên các host n
 
 Sự đặc biệt của Postach đó là dùng Evernote để viết blog, nếu như bạn chưa biết gì về Evernote thì thoạt nhìn có vẻ hơi bất tiện nhưng nếu là một người dùng Evernote như tôi thì đây quả là một dịch vụ tuyệt vời vì có thể tích hợp blog vào workflow của mình, sự đơn giản của Postach cũng là một điều đáng để nói đến và rất phù hợp.
 
-Điều đáng nói ở đây đó là dịch vụ này dường như đang bị bỏ hoang một thời gian khá dài từ Facebook đến Twitter của nhà cung cấp. Có vô số người dùng than phiền về chất lượng hỗ trợ dịch vụ của họ, thêm nữa đã có một số người dùng quay lưng với dịch vụ vì sự không an toàn nếu như Postach.io đóng cửa dịch vụ vì đơn giản đây là một dịch vụ duy nhất cung cấp nền tảng blog theo kiểu này và nếu bị đóng cửa thì nội dung của người dùng không thể chuyển được sang các dịch vụ khác.
+Điều đáng nói ở đây đó là dịch vụ này dường như đang bị bỏ hoang một thời gian khá dài từ Facebook đến Twitter của nhà cung cấp. Có vô số người dùng than phiền về chất lượng hỗ trợ dịch vụ của họ, thêm nữa đã có một số người dùng quay lưng với dịch vụ vì sự không an toàn nếu như Postach.io đóng cửa dịch vụ lý do đơn giản đây là một dịch vụ duy nhất cung cấp nền tảng blog theo kiểu này và nếu bị đóng cửa thì nội dung của người dùng không thể chuyển được sang các dịch vụ khác.
 
 **Tumblr**
 
