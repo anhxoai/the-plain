@@ -7,14 +7,14 @@
 {% else %}
 	<title>{{ site.title }}</title>
 {% endif %}
-<meta property="fb:app_id" content="821491951318429" />
-<meta property="fb:admins" content="1399243303"/>
+
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 {% if site.google_verify %}
 	<meta name="google-site-verification" content="{{ site.google_verify }}">
 {% endif %}
-
+<meta property="fb:app_id" content="821491951318429" />
+<meta property="fb:admins" content="1399243303"/>
 <link rel="icon" href="{{ site.baseurl }}/assets/favicon.png">
 <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/touch-icon.png">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
