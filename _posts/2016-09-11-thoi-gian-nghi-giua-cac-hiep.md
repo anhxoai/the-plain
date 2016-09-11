@@ -45,4 +45,6 @@ Chi tiết nghiên cứu các bạn có thể tìm đọc trong sách nhưng đi
 
 ***
 
-Như vậy qua các thông tin tham khảo như trên chắc bạn cũng có thể rút ra được một khoảng thời gian nghĩ ngơi tương đối cho mình khi tập rồi đúng không? Nhưng việc quan trọng nhất vẫn là lắng nghe cơ thể của chúng ta, nếu sau một hiệp nâng nặng và nghĩ quá số thời gian quy định mà vẫn còn cảm thấy mệt thì việc nghĩ ngơi thêm một chút là điều đáng nên làm để đạt được kết quả tốt nhất.
+Như vậy qua các thông tin tham khảo như trên chắc bạn cũng có thể rút ra được một khoảng thời gian nghĩ ngơi tương đối cho mình khi tập rồi đúng không?
+
+Điều quan trọng nhất vẫn là lắng nghe cơ thể của chúng ta, nếu sau một hiệp nâng nặng và bạn đã nghĩ quá số thời gian quy định mà vẫn còn cảm thấy mệt thì việc nghĩ ngơi thêm một chút là điều đáng nên làm để đạt được kết quả tốt nhất.
