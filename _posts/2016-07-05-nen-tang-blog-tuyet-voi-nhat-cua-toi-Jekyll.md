@@ -27,7 +27,7 @@ Có nhiều dịch vụ riêng lẻ cung cấp gói host Ghost với giá chỉ 
 
 **Self-hosted tự host blog trên các dịch vụ host thông thường**
 
-Lợi thế của việc làm này là bạn sẽ có quyền kiểm soát 100% blog của mình từ mã nguồn cho đến nội dung cùng những gì sẽ được hiển thị trên trang, nhưng đòi hỏi ở bạn một sự hiểu biết nhất định các kiến thức về vận hành website, bảo trì... Giải pháp này khá rẻ vì những gói host do các công ty Việt Nam cung cấp khá rẻ chỉ khoảng từ 30,000đ/ tháng cho một website nhỏ thông thường là đủ, đến đây thì vấn đề bảo mật lại là một rắc rối khác.
+Lợi thế của việc làm này là bạn sẽ có quyền kiểm soát 100% blog của mình từ mã nguồn cho đến nội dung cùng những gì sẽ được hiển thị trên trang, nhưng đòi hỏi ở bạn một sự hiểu biết nhất định các kiến thức về vận hành website, bảo trì... Giải pháp này khá rẻ vì những gói host do các công ty Việt Nam cung cấp với mức giá rất bèo chỉ khoảng từ 30,000đ/ tháng cho một website nhỏ thông thường là đủ, đến đây thì vấn đề bảo mật lại là một rắc rối khác.
 
 Cá nhân tôi đã bị hack khoảng ba lần khi đặt blog lên các host như thế này(nghi vấn bị local), phần vì không muốn tìm hiểu nhiều thêm về các vấn đề về bảo mật cùng sự rắc rối khi phải sao lưu dự phòng hàng ngày hoặc hàng tuần dữ liệu của mình. Thực sự, viết thì chưa bao nhiêu nhưng thời gian dành cho các thứ này đã làm bạn không còn tinh thần để viết rồi.
 
