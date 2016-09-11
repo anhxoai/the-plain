@@ -42,5 +42,5 @@ Ngoài ra, nhóm nghĩ lâu hơn còn cho thấy sự khác biệt về sức m�
 #### Một dẫn chứng khác đó là [Bigger Leaner Stronger](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG) cũng đề nghị chúng ta nên nghĩ khoảng ba phút sau mỗi hiệp dựa trên nhiều nghiên cứu khác nhau.
 
 Chi tiết nghiên cứu các bạn có thể tìm đọc trong sách nhưng điều quan trọng ở đây tác giả khuyên chúng ta nên nghĩ ngơi khoảng từ 3 - 4 phút giữa mỗi hiệp tập.
-----
+--------
 Như vậy qua các thông tin tham khảo như trên chắc bạn cũng có thể rút ra được một khoảng thời gian nghĩ ngơi tương đối cho mình khi tập rồi đúng không? Nhưng việc quan trọng nhất vẫn là lắng nghe cơ thể của chúng ta, nếu sau một hiệp nâng nặng và nghĩ quá số thời gian quy định mà vẫn còn cảm thấy mệt thì việc nghĩ ngơi thêm một chút là điều đáng nên làm để đạt được kết quả tốt nhất.
