@@ -11,11 +11,11 @@ layout: compress
 	</head>
 
 	<body>
-		<meta property="fb:app_id" content="821491951318429" />
 		{% include fbcmt.html %}
 		{% include header.html %}
 		{% include nav.html nav=site.data.menu %}
 		<main>
+			<meta property="fb:app_id" content="821491951318429" />
 			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
 		</main>
 
