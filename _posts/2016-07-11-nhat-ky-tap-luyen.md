@@ -17,6 +17,7 @@ Trước đây, tôi đã có tập một thời gian tại nhà khá lâu (kho�
 Bắt đầu từ 22/08/2016
 
 ---
+
 ## Bigger Leaner Stronger
 
 **WEEK 5**
