@@ -28,11 +28,11 @@ Vậy ăn bao nhiêu protein là đủ? Có rất nhiều tiêu chuẩn protein 
 
 Các nguồn protein trong thức ăn hàng ngày đến từ đâu? Dưới đây là các loại nguồn cung cấp Protein tốt cho người tập thể hình mà các bạn nên sử dụng khi vào chế độ ăn cùng với tập luyện
 
-	* Thịt bò là một nguồn protein tốt, được cơ thể hấp thụ rất nhanh và khoảng 70% - 80% được hấp thụ bởi cơ thể. Bạn nên chọn thịt thăn (Phile) để cho chất lượng tốt nhất.
-	* Thịt gà, bạn nên sử dụng ức gà bỏ da để cho nguồn thịt sạch và giàu protein nhất.
-	* Cá ngừ, hiện ở Việt Nam khá rẻ chỉ khoảng 30k/1kg ở các chợ. Điều khó đối với món cá ngừ đó là chế biến sao cho ngon và khử được mùi tanh đặc trưng của món cá này.
-	* Trứng, có nhiều người nói tròng đỏ trứng không tốt cho sức khỏe và chỉ nên ăn lòng trắng trứng nhưng với mức độ một ngày khoảng một hai quả trứng thì không thành vấn đề bạn nhé. Protein từ truwsng là Casein nên sẽ được hấp thu chậm từ từ bạn nên ăn phối hợp với các loại thịt khác chứ không nên chỉ ăn trứng.
-	* Whey protein một nguồn bổ sung thêm bên cạnh các nguồn từ thức ăn chính thống nếu bạn không có nhiều lựa chọn. Dựa trên tính chất nhanh hấp thụ (do ở dạng lỏng) whey tốt nhất nên sử dụng ở giai đoạn trước và sau khi tập là tốt nhất.
+ * Thịt bò là một nguồn protein tốt, được cơ thể hấp thụ rất nhanh và khoảng 70% - 80% được hấp thụ bởi cơ thể. Bạn nên chọn thịt thăn (Phile) để cho chất lượng tốt nhất.
+ * Thịt gà, bạn nên sử dụng ức gà bỏ da để cho nguồn thịt sạch và giàu protein nhất.
+ * Cá ngừ, hiện ở Việt Nam khá rẻ chỉ khoảng 30k/1kg ở các chợ. Điều khó đối với món cá ngừ đó là chế biến sao cho ngon và khử được mùi tanh đặc trưng của món cá này.
+ * Trứng, có nhiều người nói tròng đỏ trứng không tốt cho sức khỏe và chỉ nên ăn lòng trắng trứng nhưng với mức độ một ngày khoảng một hai quả trứng thì không thành vấn đề bạn nhé. Protein từ truwsng là Casein nên sẽ được hấp thu chậm từ từ bạn nên ăn phối hợp với các loại thịt khác chứ không nên chỉ ăn trứng.
+ * Whey protein một nguồn bổ sung thêm bên cạnh các nguồn từ thức ăn chính thống nếu bạn không có nhiều lựa chọn. Dựa trên tính chất nhanh hấp thụ (do ở dạng lỏng) whey tốt nhất nên sử dụng ở giai đoạn trước và sau khi tập là tốt nhất.
 
 ### VITAMIN và khoáng chất
 
