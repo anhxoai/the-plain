@@ -8,11 +8,11 @@ Trong bộ môn chơi thể hình chúng ta hầu như chỉ có hai khía cạn
 
 Khi nói về cơ thể con người (cơ bản là rất phức tạp) thì đâu đó chúng ta phải hiểu rằng tất cả các lý thuyết đều chỉ mang một tính chất tương đối, không có gì đúng hoàn toàn 100% do cơ địa của mỗi người mỗi khác, điều kiện sống, lối sống,... nên chúng ta cũng đừng quá đặt nặng vấn đề quá mà hãy theo dõi và chỉnh sửa cho phù hợp với bản thân dựa trên những gì mà mình cung cấp.
 
-*** Calories
+***Calories
 
 Giải thích cho dễ hiểu thì calo giống như năng lượng của cơ thể vậy, tất cả các loại thức ăn vào cơ thể bạn đều được chuyển hóa thành Calo, mỗi loại thức ăn sẽ cho một lượng calo nhất định tùy theo tính chất mà nhiều ít khác nhau. Việc đầu tiên là bạn cần phải tiêu thụ bao nhiêu calo mỗi ngày dựa trên cường độ hoạt động và thể trạng của cơ thể. Trung bình một người bình thường, Nam cần khoảng 2000 - 2600calo/ngày, còn Nữ là 1600 - 2200 calo/ngày. Để cụ thể hơn cho việc luyện tập bạn có thể sử dụng [công cụ tính calo của webthehinh](http://www.webthehinh.com/community/pages/cong-cu-tinh-luong-calo-bodybuilders/) với các chú thích bằng tiếng Việt khá dễ hiểu cùng với nhiều cách tính khác nhau để bạn có thể ước lượng "khoảng" calo hàng ngày bạn cần nạp vào để đạt mục tiêu của mình.
 
-*** Carbonhydrate - Bột đường
+***Carbonhydrate - Bột đường
 
 Hiện nay, nếu có tìm hiểu sơ thì có lẽ bột đường chính là loại thực phẩm bị nhiều người tránh xa nhất nhưng thực sự chúng ta đã có những hiểu lầm không đáng có về nó. Bột đường đóng một vai trò rất quan trọng trong các hoạt động của cơ thể hàng ngày và đây chính là nguồn năng lượng chính để cơ thể vận động, nếu thiếu bột đường có thể dẫn đến mệt mỏi, khả năng tập luyện kém hiệu quả... Việc bỏ đi hoàn toàn bột đường là một điều rất không đúng các bạn nhé.
 
@@ -20,7 +20,7 @@ Nhưng tại sao người ta lại bảo chúng ta nên tránh ăn nhiều bột
 
 Để đối phó với vấn đề này bạn có thể tìm kiếm bảng **Glycemic Index** để biết được tỷ lệ đường trong các món thức ăn hàng ngày chúng ta tiêu thụ, chỉ số càng cao thì chúng ta càng nên tránh (cần có chút kiến thức về tiếng Anh). Các loại thức ăn bột đường cao mà cơ bản chúng ta nên tránh: bánh mì, ngô bắp, các loại bánh ngọt, dưa hấu, gạo trắng, bia
 
-*** Protein - Đạm
+***Protein - Đạm
 
 Không cần phải nói thì Protein là một thứ không thể thiếu trong môn thể hình. Nhắc lại một chút, khi bạn tiêu thụ thức ăn có protein, cơ thể sẽ bắt đầu chia nhỏ nó ra thành các amino axit được dùng để xây dựng cơ bắp ( cùng với các thứ khác trên cơ thể), nếu thức ăn bạn ăn hàng ngày quá ít protein thì khả năng xây dựng và sửa chữa cơ bắp sẽ trở nên suy yếu.
 
@@ -34,7 +34,7 @@ Các nguồn protein trong thức ăn hàng ngày đến từ đâu? Dưới đ�
 	* Trứng, có nhiều người nói tròng đỏ trứng không tốt cho sức khỏe và chỉ nên ăn lòng trắng trứng nhưng với mức độ một ngày khoảng một hai quả trứng thì không thành vấn đề bạn nhé. Protein từ truwsng là Casein nên sẽ được hấp thu chậm từ từ bạn nên ăn phối hợp với các loại thịt khác chứ không nên chỉ ăn trứng.
 	* Whey protein một nguồn bổ sung thêm bên cạnh các nguồn từ thức ăn chính thống nếu bạn không có nhiều lựa chọn. Dựa trên tính chất nhanh hấp thụ (do ở dạng lỏng) whey tốt nhất nên sử dụng ở giai đoạn trước và sau khi tập là tốt nhất.
 
-*** VITAMIN và khoáng chất
+***VITAMIN và khoáng chất
 
 Trong dinh dưỡng thì đây cũng là một phần rất quan trọng mà nhiều người tập thể hình thường bỏ qua, hầu hết các loại khoáng chất đều rất cần thiết, bảo đảm cho cơ thể khỏe mạnh và hoạt động tốt. Ở phần này mình xin trích dẫn một phần bài viết của anh [Quang Nguyen](https://www.facebook.com/quangbangs) đã viết một bài khá cặn kẽ
 
@@ -55,7 +55,7 @@ Trong dinh dưỡng thì đây cũng là một phần rất quan trọng mà nhi
 	* Các loại trái cây
 
 
-*** Lý thuyết là vậy nhưng nên bắt đầu ăn như thế nào?
+***Lý thuyết là vậy nhưng nên bắt đầu ăn như thế nào?
 
 Bạn nên lên danh sách các loại thức ăn bạn sẽ ăn bằng excel sau đó dựa trên từng loại mà tìm kiếm các thông tin về thành phần của nó, chẳng hạn như trong 100g thịt bò có bao nhiêu gram protein...(dùng google để tìm kiếm nhé) để điều chỉnh cho phù hợp. Quá trình lên lịch ăn khá mất thời gian ở lúc ban đầu nhưng sẽ cho bạn một cái nhìn tổng thể về giá trị dinh dưỡng của từng loại thức ăn giúp bạn ý thức được nhiều hơn trong những gì ăn hàng ngày.
 
