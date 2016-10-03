@@ -2,7 +2,6 @@
 layout: post
 date: 2016-05-29
 title: Linux với Elementary OS Freya đánh giá
-category: Review
 tags: linux
 ---
 Linux là một hệ điều hành tốt, ổn định, mang lại cho bạn những cái nhìn mới mẻ hơn. Đặc tính mở cũng là một thuận lợi nhưng cũng là mặt hạn chế của Linux nhưng với một cộng đồng phát triển mạnh mẽ như hiện nay, điểm hạn chế đó đang được lấp dần đi.
