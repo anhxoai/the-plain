@@ -67,6 +67,6 @@ Nhìn chung để theo một chế độ ăn sít sao với những gì đưa ra
 ---
 Tham khảo thêm:
 
- * [Calo, protein, carb, fat cần cho bodybuilders] (http://www.webthehinh.com/community/threads/22694/)
+ * [Calo, protein, carb, fat cần cho bodybuilders](http://www.webthehinh.com/community/threads/22694/)
  * [Hướng dẫn về thành phần dinh dưỡng và nguồn thức ăn](http://www.webthehinh.com/community/threads/22699/)
 
