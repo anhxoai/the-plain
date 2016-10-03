@@ -42,18 +42,17 @@ Trong dinh dưỡng thì đây cũng là một phần rất quan trọng mà nhi
 
 Để có một cơ thể đủ chất, bạn cần có một chế độ ăn đa dạng với nhiều loại thức ăn khác nhau, bạn có thể tham khảo:
 
-	* Các loại rau xanh
-	* Cà chua, ớt chuông
-	* Bơ
-	* Khoai tây
-	* Yagourt
-	* Trứng
-	* Các loại đậu
-	* Yến mạch
-	* Gạo lứt (khuyên dùng)
-	* Thịt bò, gà, cá
-	* Các loại trái cây
-
+ * Các loại rau xanh
+ * Cà chua, ớt chuông
+ * Bơ
+ * Khoai tây
+ * Yagourt
+ * Trứng
+ * Các loại đậu
+ * Yến mạch
+ * Gạo lứt (khuyên dùng)
+ * Thịt bò, gà, cá
+ * Các loại trái cây
 
 ### Lý thuyết là vậy nhưng nên bắt đầu ăn như thế nào?
 
@@ -61,12 +60,13 @@ Bạn nên lên danh sách các loại thức ăn bạn sẽ ăn bằng excel sa
 
 Nhìn chung để theo một chế độ ăn sít sao với những gì đưa ra thực sự rất khó, mình thừa nhận là thực sự khó vì có thể bạn sẽ phải tự đi chợ, tự nấu các món ăn dành riêng cho mình, tự ép ăn với các món đơn giản tự chế mà có thể là không được ngon lắm vì không có nhiều thời gian chế biến ngoài ra còn có đám tiệc hoặc tính chất công việc không cho phép bạn làm được như vậy. Đối với những bạn như vậy mình có một vài quy tắc nhỏ đơn giản mà chúng ta có thể giữ hàng ngày.
 
-	1. Không ăn các loại thực phẩm từ đường đã được xử lý như bánh, kẹo, nước uống có đường
-	2. Bổ sung protein từ các loại thức ăn chứa nhiều thịt. Khi không có thời gian chế biến mình thường ăn sáng với phở hoặc đi ăn cơm gà ngoài.
-	3. Chú trọng ăn đa dạng từ nhiều nguồn khác nhau kết hợp các loại rau củ quả trong mỗi bữa ăn. Tốt nhất nên đưa gạo lức, yến mạch vào chế độ ăn hàng ngày vì có nhiều khoáng chất cần thiết.
+ 1. Không ăn các loại thực phẩm từ đường đã được xử lý như bánh, kẹo, nước uống có đường
+ 2. Bổ sung protein từ các loại thức ăn chứa nhiều thịt. Khi không có thời gian chế biến mình thường ăn sáng với phở hoặc đi ăn cơm gà ngoài.
+ 3. Chú trọng ăn đa dạng từ nhiều nguồn khác nhau kết hợp các loại rau củ quả trong mỗi bữa ăn. Tốt nhất nên đưa gạo lức, yến mạch vào chế độ ăn hàng ngày vì có nhiều khoáng chất cần thiết.
 
+---
 Tham khảo thêm:
 
-	* [Calo, protein, carb, fat cần cho bodybuilders] (http://www.webthehinh.com/community/threads/22694/)
-	* [Hướng dẫn về thành phần dinh dưỡng và nguồn thức ăn](http://www.webthehinh.com/community/threads/22699/)
+ * [Calo, protein, carb, fat cần cho bodybuilders] (http://www.webthehinh.com/community/threads/22694/)
+ * [Hướng dẫn về thành phần dinh dưỡng và nguồn thức ăn](http://www.webthehinh.com/community/threads/22699/)
 
