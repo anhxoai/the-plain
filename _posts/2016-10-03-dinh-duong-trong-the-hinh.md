@@ -4,6 +4,8 @@ title: Ăn uống, dinh dưỡng trong thể hình
 tags: thehinh, dinhduong  
 ---
 
+![che-do-an-uong-dinh-duong-cho-nguoi-tap-the-hinh](https://cloud.githubusercontent.com/assets/19565657/19036464/30749c26-899a-11e6-89d0-28d436ca4604.jpg)
+
 Trong bộ môn chơi thể hình chúng ta hầu như chỉ có hai khía cạnh đó là tập luyện và dinh dưỡng. Mỗi thứ điều chiếm một phần rất quan trọng để đạt được một thân hình đẹp nhưng chế độ ăn là một thứ mà mình cho là khó duy trì và phụ thuộc vào một số yếu tố như điều kiện, công việc, phong cách sống... Ở bài viết này mình sẽ cố gắng giữ mọi thứ *thật đơn giản* để giúp mọi người nắm được những thứ then chốt nhất cùng với việc gợi ý một vài loại thực phẩm phù hợp với người Việt Nam chúng ta. 
 
 Khi nói về cơ thể con người (cơ bản là rất phức tạp) thì đâu đó chúng ta phải hiểu rằng tất cả các lý thuyết đều chỉ mang một tính chất tương đối, không có gì đúng hoàn toàn 100% do cơ địa của mỗi người mỗi khác, điều kiện sống, lối sống,... nên chúng ta cũng đừng quá đặt nặng vấn đề quá mà hãy theo dõi và chỉnh sửa cho phù hợp với bản thân dựa trên những gì mà mình cung cấp.
