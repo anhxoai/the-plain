@@ -41,7 +41,7 @@ Sự đặc biệt của Postach đó là dùng Evernote để viết blog, nế
 
 Cách mà Tumblr thể hiện dịch vụ của họ trông giống như là một mạng xã hội nhiều hơn là một blog, mặc dù nền tảng của họ dùng để blog cũng rất tuyệt vời, có rất nhiều blogger Việt Nam hiện nay chuyển sang sử dụng Tumblr rất nhiều vì sự ổn định, đơn giản.
 
-Cá nhân tôi cũng rất thích Tumblr nhưng chỉ sử dụng để reblog linh tinh, follow các blog hay để xem mà thôi. Ý kiến cá nhân thì Tumblr rất phù hợp với người Việt và nếu bạn không muốn đi qua mấy thứ linh tinh tìm hiểu về Jekyll thì đây là sự lựa chọn phù hợp, điều duy nhất tôi không thích ở Tumblr đó là Dashboard ngập tràn feed từ các blog khác nên chẳng tập trung được gì vào nội dung blog của mình được cả.
+Cá nhân tôi cũng rất thích Tumblr nhưng chỉ sử dụng để reblog linh tinh, follow các blog hay để xem mà thôi. Ý kiến cá nhân thì Tumblr rất phù hợp với người Việt và nếu bạn không muốn đi qua mấy thứ linh tinh tìm hiểu về Jekyll thì đây là sự lựa chọn tốt, điều duy nhất tôi không thích ở Tumblr đó là Dashboard ngập tràn feed từ các blog khác nên chẳng tập trung được gì vào nội dung blog của mình được cả.
 
 **Jekyll**
 
