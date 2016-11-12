@@ -20,4 +20,4 @@ Bắt đầu từ 22/08/2016
 
 ## Bigger Leaner Stronger
 
-![Phase 1](http://blog.duongphi.com/bigger-leaner-stronger-phase-1) mình tập được 5 tuần với bài Bigger Leaner Stronger, tăng cơ được một số chỗ nhất định, cảm nhận được tốc độ tăng là khá nhanh.
+[Phase 1](http://blog.duongphi.com/bigger-leaner-stronger-phase-1) mình tập được 5 tuần với bài Bigger Leaner Stronger, tăng cơ được một số chỗ nhất định, cảm nhận được tốc độ tăng là khá nhanh.
