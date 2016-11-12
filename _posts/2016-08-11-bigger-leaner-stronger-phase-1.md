@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2016-08-11
+title: Bigger Leaner Stronger Phase 1
+tags: tapluyen, nangta
+---
+
 ## Bigger Leaner Stronger
 
 Theo được 5 tuần bài [Bigger Leaner Stronger](http://www.evernote.com/l/AANhkcibY3tNmKJKybwd4wszj769C_BXgrk/) trong quyển sách cùng tên của Michael Matthews, là một trong những quyển sách bán chạy nhất và có lượng đánh giá cao nhất ở mục thể hình (Fitness & Excercise/ Weight Lifting) của [Amazon](https://www.amazon.com/Bigger-Leaner-Stronger-Bodybuilding-Weightlifting-ebook/dp/B006XF5BTG).
