@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-08-11
+date: 2016-07-12
 title: Bigger Leaner Stronger Phase 1
 tags: tapluyen, nangta
 ---
