@@ -177,50 +177,50 @@ tags: tapluyen, nangta
 
 **Day 1: Thứ hai 03/10/2016**
 
-Barbell Bench Press - 55kg 5x3x3x3x2 very hard
-Incline Dumbbel Bench Press - 22.5kg 8x8x8
-Pendlay Row - 45kg 8x8x8x8 nhúng lấy lực, hard
-Wide grip Lat pull down - 39kg 8x8x8 hard
-Overhead Military Press - 27.5kg 5x5 
-Barbell Curl - 25kg 8x8x8 hard
-Close Grip Bench Press - 40kg 8x7x8 hard
-Dumbbell Shrug - 20kg 8x8x8 max range
+ - Barbell Bench Press - 55kg 5x3x3x3x2 very hard
+ - Incline Dumbbel Bench Press - 22.5kg 8x8x8
+ - Pendlay Row - 45kg 8x8x8x8 nhúng lấy lực, hard
+ - Wide grip Lat pull down - 39kg 8x8x8 hard
+ - Overhead Military Press - 27.5kg 5x5 
+ - Barbell Curl - 25kg 8x8x8 hard
+ - Close Grip Bench Press - 40kg 8x7x8 hard
+ - Dumbbell Shrug - 20kg 8x8x8 max range
 
 **Day 2: Thứ ba **
 
-Squats - 70kg 5x5
-Leg Press - 140kg 4x6
-Sumo DeadLift - 90kg 53332 verry hard
-StiffLeg Deadlift - 50kg 8x8x8 
-Lunges - 15kg db 3x8
-Standing Calf Praise - 130kg 15x15x15x15
-Cable Crunch 27.6kg 4x12
-Abs Movement 2 - 4 x 8-12
+ - Squats - 70kg 5x5
+ - Leg Press - 140kg 4x6
+ - Sumo DeadLift - 90kg 53332 verry hard
+ - StiffLeg Deadlift - 50kg 8x8x8 
+ - Lunges - 15kg db 3x8
+ - Standing Calf Praise - 130kg 15x15x15x15
+ - Cable Crunch 27.6kg 4x12
+ - Abs Movement 2 - 4 x 8-12
 
 **Day 3: OFF**
 
 **Day 4: Thứ năm **
 
-Incline Barbell Bench Press - 40kg 12x10x10
-Butterfly or Fly with Dumbbell - 44kg 12x12x11
-wide grip lat pull down - 39kg 12x12x10
-Rowing with DB - 25kg 12x12x12
-OverHead Military Press - 25kg 8x8x6
-Dumbbell Lateral Raise - 7.5kg 12x12x12
-Dumbbell Curl - 10kg - 12x12x12
-Triceps KickBacks - 7.5kg 12x12x12 hard
+ - Incline Barbell Bench Press - 40kg 12x10x10
+ - Butterfly or Fly with Dumbbell - 44kg 12x12x11
+ - wide grip lat pull down - 39kg 12x12x10
+ - Rowing with DB - 25kg 12x12x12
+ - OverHead Military Press - 25kg 8x8x6
+ - Dumbbell Lateral Raise - 7.5kg 12x12x12
+ - Dumbbell Curl - 10kg - 12x12x12
+ - Triceps KickBacks - 7.5kg 12x12x12 hard
 
 **Day 5: Thứ sáu **
 
-Squat - 65kg 10x10x10x10 
-Leg Press - 130kg 10x10x10x10
-Sumo Deadlift - 70kg 10x9x9x8 
-StiffLeg DeadLift - 30kg 12x12x12
-Lunges - 12.5kg 12x12x12
-Standing Calf Praise - 150kg 12x12x12
-Standing Calf Praise - 190kg 6x5
-seated crunch - 27.5kg 12x12x12x12 
-Abs Movement 2 - 4x 8-12
+ - Squat - 65kg 10x10x10x10 
+ - Leg Press - 130kg 10x10x10x10
+ - Sumo Deadlift - 70kg 10x9x9x8 
+ - StiffLeg DeadLift - 30kg 12x12x12
+ - Lunges - 12.5kg 12x12x12
+ - Standing Calf Praise - 150kg 12x12x12
+ - Standing Calf Praise - 190kg 6x5
+ - seated crunch - 27.5kg 12x12x12x12 
+ - Abs Movement 2 - 4x 8-12
 
 
 **WEEK 6**
