@@ -94,14 +94,14 @@ tags: tapluyen, nangta
 
 **Day 4: Thứ năm** 
 
-Incline Barbell Bench Press - 40kg 9x8x8
-Butterfly or Fly with Dumbbell - 44kg 12x12x11
-wide grip lat pull down - 39kg 12x11x10
-Rowing with DB - 25kg 12x12x12
-OverHead Military Press - 25kg 8x8x7
-Dumbbell Lateral Raise - 7.5kg 12x12x12
-Dumbbell Curl - 12.5kg - 12x12x12
-Triceps KickBacks - 7.5kg 12x12x12 hard
+ - Incline Barbell Bench Press - 40kg 9x8x8
+ - Butterfly or Fly with Dumbbell - 44kg 12x12x11
+ - wide grip lat pull down - 39kg 12x11x10
+ - Rowing with DB - 25kg 12x12x12
+ - OverHead Military Press - 25kg 8x8x7
+ - Dumbbell Lateral Raise - 7.5kg 12x12x12
+ - Dumbbell Curl - 12.5kg - 12x12x12
+ - Triceps KickBacks - 7.5kg 12x12x12 hard
 
 **Day 5: Thứ sáu** 
 
