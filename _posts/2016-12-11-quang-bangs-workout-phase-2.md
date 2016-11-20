@@ -141,7 +141,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 10x8x8
  - Butterfly or Fly with Dumbbell - 44kg 12x12x11
@@ -152,7 +152,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 12x12x12
  - Triceps KickBacks - 7.5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 65kg 8x8x8x8
  - Leg Press - 130kg 10x10x10x10
@@ -215,7 +215,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 12x10x10
  - Butterfly or Fly with Dumbbell - 44kg 12x12x11
@@ -226,7 +226,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 12x12x12
  - Triceps KickBacks - 7.5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 65kg 10x10x10x10 
  - Leg Press - 130kg 10x10x10x10
@@ -267,7 +267,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 11x9x10
  - Butterfly or Fly with Dumbbell - 44kg 11x10x9
@@ -278,7 +278,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 11x10x10
  - Triceps KickBacks - 5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 60kg 10x10x10x10 
  - Leg Press - 120kg 10x10x10x10
@@ -305,7 +305,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Close Grip Bench Press - 40kg 8x7x8 hard
  - Dumbbell Shrug - 20kg 8x8x8 max range
 
-**Day 2: Thứ ba **
+**Day 2: Thứ ba**
 
  - Squats - 62.5kg 5x5
  - Leg Press - 130kg 4x6
@@ -318,7 +318,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 12x10x10
  - Butterfly or Fly with Dumbbell - 39kg 12x12x12
@@ -329,7 +329,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 12x10x9
  - Triceps KickBacks - 5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 55kg 10x10x10x10 hard
  - Leg Press - 115kg 10x10x10x10
@@ -356,7 +356,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Close Grip Bench Press - 40kg 7x7x6 hard
  - Dumbbell Shrug - 20kg 8x8x8 max range
 
-**Day 2: Thứ ba **
+**Day 2: Thứ ba**
 
  - Squats - 62.5kg 5x5
  - Leg Press - 130kg 4x6
@@ -369,7 +369,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 10x8x8
  - Butterfly or Fly with Dumbbell - 39kg 12x8x9
@@ -380,7 +380,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 12x11x10
  - Triceps KickBacks - 5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 50kg 10x10x10x10
  - Leg Press - 110kg 10x10x10x10
@@ -407,7 +407,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Close Grip Bench Press - 40kg 7x7x7 hard
  - Dumbbell Shrug - 20kg 8x8x8 max range
 
-**Day 2: Thứ ba **
+**Day 2: Thứ ba**
 
  - Squats - 62.5kg 5x5
  - Leg Press - 130kg 4x6
@@ -420,7 +420,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 10x9x8
  - Butterfly or Fly with Dumbbell - 39kg 12x8x9
@@ -431,7 +431,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Dumbbell Curl - 10kg - 12x11x10
  - Triceps KickBacks - 5kg 12x12x12 hard
 
-**Day 5: Thứ sáu **
+**Day 5: Thứ sáu**
 
  - Squat - 50kg 10x10x10x10
  - Leg  Press - 110kg 10x10x10x10
@@ -447,7 +447,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 70kg
 
-**Day 1: Thứ hai 29/08/2016 **
+**Day 1: Thứ hai 29/08/2016**
 
  - Barbell Bench Press - 55kg 5x3x3x3x2
  - Incline Dumbbel Bench Press - 20kg 6x7x7
@@ -458,7 +458,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
  - Close Grip Bench Press - 40kg 7x6x5 hard
  - Dumbbell Shrug - 20kg 8x8x8 max range
 
-**Day 2: Thứ ba **
+**Day 2: Thứ ba**
 
  - Squats - 60kg 5x5
  - Leg Press - 130kg 4x6
@@ -471,7 +471,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **Day 3: OFF**
 
-**Day 4: Thứ năm **
+**Day 4: Thứ năm**
 
  - Incline Barbell Bench Press - 40kg 10x8x8
  - Butterfly or Fly with Dumbbell - 34kg 12x12x12
@@ -497,7 +497,7 @@ Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lạ
 
 **WEEK 1**
 
-**Day 1: Thứ hai 22/08/2016 **
+**Day 1: Thứ hai 22/08/2016**
 
  - Barbell Bench Press - 55kg 5x3x3x3x2
  - Incline Dumbbel Bench Press - 17.5kg 8x8x8
