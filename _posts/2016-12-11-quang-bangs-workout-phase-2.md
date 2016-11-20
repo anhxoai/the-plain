@@ -11,6 +11,9 @@ tags: tapluyen, nangta
 
 22/08/2016 tập theo bài của [Quang Bangs](https://www.facebook.com/QuangBangsFitness/?fref=ts), bài tập và chế độ ăn, chương trình kéo dài 12 tuần. 
 
+Về bài tập: format của bài khá giống với các bài tập như [P.H.A.T](http://www.directlyfitness.com/store/p-h-a-t-training-layne-nortons-workout-system/), [P.H.U.L](https://www.muscleandstrength.com/workouts/phul-workout) gồm 4 ngày trong tuần và một ngày bổ trợ các nhóm cơ yếu(cá nhân mình không tập thêm ngày này), nội dung các bài tập đa số là các bài compound sử dụng tạ tay và tạ đòn nhằm giúp những người mới tập như mình tăng cơ tối đa.
+
+
 
 
 **WEEK 11 add cardio**
