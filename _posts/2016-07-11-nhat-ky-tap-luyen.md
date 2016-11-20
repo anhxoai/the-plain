@@ -20,6 +20,8 @@ Bài tập rất thử thách với cường độ luyện tập cao, 4 buổi/t
 
 Khoảng ăn uống thì Phi không thể theo được do đó lượng mỡ còn rất nhiều, thậm chí có phần nhiều hơn trước, trọng lượng tăng từ 70kg -> 75kg do ăn nhiều sợ bị mất cơ.
 
+![Quang Bangs Sau tập](https://cloud.githubusercontent.com/assets/19565657/20461819/5e782d1e-af3c-11e6-98bf-66be6cf766a5.jpg)
+
 ---
 
 #### [Bigger Leaner Stronger Phase #1](http://blog.duongphi.com/bigger-leaner-stronger-phase-1)
