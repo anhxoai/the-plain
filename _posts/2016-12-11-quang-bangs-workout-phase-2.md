@@ -21,7 +21,7 @@ Nhìn chung, bài tập rất thử thách ở cường độ luyện tập rấ
 
 *__Về chế độ ăn:__* cá nhân mình khá tệ ở phần này nên không đánh giá được nhiều, do điều kiện không cho phép nên chỉ tập trung ăn các loại thực phẩm tốt, nhiều protein và tránh ăn các loại bánh kẹo thuần đường bột,...[mang tính tổng thể khái quát, ước lượng](http://blog.duongphi.com/dinh-duong-trong-the-hinh) nhiều hơn là macro.
 
-Trong chế độ ăn có một phần mình thấy khá hay nên share lại cho các bạn đó là dùng protein supplement 3 lần/ ngày (dành cho các bạn có điều kiện) vào thời điểm:
+Trong chế độ ăn có một phần mình thấy khá hay nên chia sẻ lại cho các bạn đó là dùng protein supplement 3 lần/ ngày (dành cho các bạn có điều kiện) vào thời điểm:
 
  - Sáng sớm sau khi thức dậy whey protein + BCAA
  - Trước tập Whey protein + BCAA
