@@ -382,50 +382,50 @@ tags: tapluyen, nangta
 
 **Day 1: Thứ hai**
 
-Barbell Bench Press - 55kg 5x3x3x3x2 khó
-Incline Dumbbel Bench Press - 20kg 8x8x8 hard
-Pendlay Row - 40kg 8x8x8x8 nhúng lấy lực
-Lat pull down - 44kg 8x8x8
-Overhead Military Press - 30kg 5x4x3x2x2
-Barbell Curl - 25kg 8x8x7 hard
-Close Grip Bench Press - 40kg 7x7x7 hard
-Dumbbell Shrug - 20kg 8x8x8 max range
+ - Barbell Bench Press - 55kg 5x3x3x3x2 khó
+ - Incline Dumbbel Bench Press - 20kg 8x8x8 hard
+ - Pendlay Row - 40kg 8x8x8x8 nhúng lấy lực
+ - Lat pull down - 44kg 8x8x8
+ - Overhead Military Press - 30kg 5x4x3x2x2
+ - Barbell Curl - 25kg 8x8x7 hard
+ - Close Grip Bench Press - 40kg 7x7x7 hard
+ - Dumbbell Shrug - 20kg 8x8x8 max range
 
 **Day 2: Thứ ba **
 
-Squats - 62.5kg 5x5
-Leg Press - 130kg 4x6
-Sumo DeadLift - 70kg 53332 tăng dần đến 80kg
-StiffLeg Deadlift - 40kg 8x8x7 form ok
-Lunges - 12.5kg db 3x8
-Standing Calf Praise - 120kg 15x15x14x12
-Cable Crunch 25kg 4x12
-Abs Movement 2 - 4 x 8-12
+ - Squats - 62.5kg 5x5
+ - Leg Press - 130kg 4x6
+ - Sumo DeadLift - 70kg 53332 tăng dần đến 80kg
+ - StiffLeg Deadlift - 40kg 8x8x7 form ok
+ - Lunges - 12.5kg db 3x8
+ - Standing Calf Praise - 120kg 15x15x14x12
+ - Cable Crunch 25kg 4x12
+ - Abs Movement 2 - 4 x 8-12
 
 **Day 3: OFF**
 
 **Day 4: Thứ năm **
 
-Incline Barbell Bench Press - 40kg 10x9x8
-Butterfly or Fly with Dumbbell - 39kg 12x8x9
-Close grip lat pull down - 39kg 12x12x10 hard
-Rowing with DB - 20kg 10x9x9 correct form
-OverHead Military Press - 25kg 8x8x8
-Dumbbell Lateral Raise - 7.5kg 10x10x10
-Dumbbell Curl - 10kg - 12x11x10
-Triceps KickBacks - 5kg 12x12x12 hard
+ - Incline Barbell Bench Press - 40kg 10x9x8
+ - Butterfly or Fly with Dumbbell - 39kg 12x8x9
+ - Close grip lat pull down - 39kg 12x12x10 hard
+ - Rowing with DB - 20kg 10x9x9 correct form
+ - OverHead Military Press - 25kg 8x8x8
+ - Dumbbell Lateral Raise - 7.5kg 10x10x10
+ - Dumbbell Curl - 10kg - 12x11x10
+ - Triceps KickBacks - 5kg 12x12x12 hard
 
 **Day 5: Thứ sáu **
 
-Squat - 50kg 10x10x10x10
-Leg Press - 110kg 10x10x10x10
-Sumo Deadlift - 60kg 10x10x10x10 hard
-StiffLeg DeadLift - 20kg 12x11x11
-Lunges - 10kg 12x
-Standing Calf Praise - 140kg 12x12x12
-Standing Calf Praise - 170kg 6x5
-Standing crunch - 25kg 12x12x12x12 
-Abs Movement 2 - 4x 8-12
+ - Squat - 50kg 10x10x10x10
+ - Leg  Press - 110kg 10x10x10x10
+ - Sum o Deadlift - 60kg 10x10x10x10 hard
+ - StiffLeg DeadLift - 20kg 12x11x11
+ - Lunges - 10kg 12x
+ - Standing Calf Praise - 140kg 12x12x12
+ - Standing Calf Praise - 170kg 6x5
+ - Standing crunch - 25kg 12x12x12x12 
+ - Abs Movement 2 - 4x 8-12
 
 **WEEK 2 **
 
@@ -433,97 +433,97 @@ Abs Movement 2 - 4x 8-12
 
 **Day 1: Thứ hai 29/08/2016 **
 
-Barbell Bench Press - 55kg 5x3x3x3x2
-Incline Dumbbel Bench Press - 20kg 6x7x7
-Pendlay Row - 20kg 8x8x8x8
-Lat pull down - 39kg 8x8x8
-Overhead Military Press - 25kg 5x5
-Barbell Curl - 25kg 8x8x6 hard
-Close Grip Bench Press - 40kg 7x6x5 hard
-Dumbbell Shrug - 20kg 8x8x8 max range
+ - Barbell Bench Press - 55kg 5x3x3x3x2
+ - Incline Dumbbel Bench Press - 20kg 6x7x7
+ - Pendlay Row - 20kg 8x8x8x8
+ - Lat pull down - 39kg 8x8x8
+ - Overhead Military Press - 25kg 5x5
+ - Barbell Curl - 25kg 8x8x6 hard
+ - Close Grip Bench Press - 40kg 7x6x5 hard
+ - Dumbbell Shrug - 20kg 8x8x8 max range
 
 **Day 2: Thứ ba **
 
-Squats - 60kg 5x5
-Leg Press - 130kg 4x6
-Sumo DeadLift - 70kg 53332 tăng dần đến 80kg
-StiffLeg Deadlift - 30kg 3x7 chỉnh form
-Lunges - 12.5kg db 3x7
-Standing Calf Praise - 120kg 15x15x14x12
-Cable Crunch 22.5 4x8
-Abs Movement 2 - 4 x 8-12
+ - Squats - 60kg 5x5
+ - Leg Press - 130kg 4x6
+ - Sumo DeadLift - 70kg 53332 tăng dần đến 80kg
+ - StiffLeg Deadlift - 30kg 3x7 chỉnh form
+ - Lunges - 12.5kg db 3x7
+ - Standing Calf Praise - 120kg 15x15x14x12
+ - Cable Crunch 22.5 4x8
+ - Abs Movement 2 - 4 x 8-12
 
 **Day 3: OFF**
 
 **Day 4: Thứ năm **
 
-Incline Barbell Bench Press - 40kg 10x8x8
-Butterfly or Fly with Dumbbell - 34kg 12x12x12
-Close grip lat pull down - 34kg 12x11x12
-Rowing with DB - 20kg 12x11x10
-OverHead Military Press - 22.5kg 8x8x6
-Dumbbell Lateral Raise - 7.5kg 8x7x7
-Dumbbell Curl - 10kg - 12x10x8
-Triceps KickBacks - 5kg 12x12x12
+ - Incline Barbell Bench Press - 40kg 10x8x8
+ - Butterfly or Fly with Dumbbell - 34kg 12x12x12
+ - Close grip lat pull down - 34kg 12x11x12
+ - Rowing with DB - 20kg 12x11x10
+ - OverHead Military Press - 22.5kg 8x8x6
+ - Dumbbell Lateral Raise - 7.5kg 8x7x7
+ - Dumbbell Curl - 10kg - 12x10x8
+ - Triceps KickBacks - 5kg 12x12x12
 
 **Day 5: Thứ sáu 02/09/2016 lễ, đổi phòng**
 
-Squat - 50kg 8x8x8x8
-Leg Press - 100kg 10x10x10x10
-Sumo Deadlift - 50kg 10x10x10x10
-StiffLeg DeadLift - 20kg 12x11x11
-Lunges - 10kg 9x9x9
-Standing Calf Praise - 140kg 12x12x12
-Standing Calf Praise - 170kg 6x5
-Standing crunch - 25kg 12x12x12x12 tay yếu
-Abs Movement 2 - 4x 8-12
+ - Squat - 50kg 8x8x8x8
+ - Leg Press - 100kg 10x10x10x10
+ - Sumo Deadlift - 50kg 10x10x10x10
+ - StiffLeg DeadLift - 20kg 12x11x11
+ - Lunges - 10kg 9x9x9
+ - Standing Calf Praise - 140kg 12x12x12
+ - Standing Calf Praise - 170kg 6x5
+ - Standing crunch - 25kg 12x12x12x12 tay yếu
+ - Abs Movement 2 - 4x 8-12
 
 
 **WEEK 1**
 
 **Day 1: Thứ hai 22/08/2016 **
 
-Barbell Bench Press - 55kg 5x3x3x3x2
-Incline Dumbbel Bench Press - 17.5kg 8x8x8
-Pendlay Row - 15kg 8x8x8x8
-Lat pull down - 34kg 8x8x8
-Overhead Military Press - 25kg 5x5
-Barbell Curl - 25kg 7x7x6
-Close Grip Bench Press - 40kg 8x7x6
-Dumbbell Shrug - 25kg 8x8x8
+ - Barbell Bench Press - 55kg 5x3x3x3x2
+ - Incline Dumbbel Bench Press - 17.5kg 8x8x8
+ - Pendlay Row - 15kg 8x8x8x8
+ - Lat pull down - 34kg 8x8x8
+ - Overhead Military Press - 25kg 5x5
+ - Barbell Curl - 25kg 7x7x6
+ - Close Grip Bench Press - 40kg 8x7x6
+ - Dumbbell Shrug - 25kg 8x8x8
 
 **Day 2: Thứ ba 23/08/2016**
 
-Squats - 65kg 5x5
-Leg Press - 130kg 4x6
-Sumo DeadLift - 70kg 53332
-StiffLeg Deadlift - 40kg 3x7
-Lunges - 10kg db 3x8
-Standing Calf Praise - 120kg 15x15x14x12
-Cable Crunch 22.5 4x8
-Abs Movement 2 - 4 x 8-12
+ - Squats - 65kg 5x5
+ - Leg Press - 130kg 4x6
+ - Sumo DeadLift - 70kg 53332
+ - StiffLeg Deadlift - 40kg 3x7
+ - Lunges - 10kg db 3x8
+ - Standing Calf Praise - 120kg 15x15x14x12
+ - Cable Crunch 22.5 4x8
+ - Abs Movement 2 - 4 x 8-12
 
 **Day 3: OFF**
 
 **Day 4: Thứ năm 25/08/2016**
 
-Incline Barbell Bench Press - 40kg 9x8x8
-Butterfly or Fly with Dumbbell - 29kg 12x12x12
-Pull Up - 34kg 12x9x8
-Rowing with DB - 17.5kg 12x12x12
-OverHead Military Press - 20kg 8x8x8
-Dumbbell Lateral Raise - 5kg 12x12x12
-Dumbbell Curl - 10kg 8x8x8
-Triceps KickBacks - 5kg 12x12x12
+ - Incline Barbell Bench Press - 40kg 9x8x8
+ - Butterfly or Fly with Dumbbell - 29kg 12x12x12
+ - Pull Up - 34kg 12x9x8
+ - Rowing with DB - 17.5kg 12x12x12
+ - OverHead Military Press - 20kg 8x8x8
+ - Dumbbell Lateral Raise - 5kg 12x12x12
+ - Dumbbell Curl - 10kg 8x8x8
+ - Triceps KickBacks - 5kg 12x12x12
 
 **Day 5: Thứ sáu 26/08/2016**
 
-Squat - 50kg 8x8x8
-Leg Press - 100kg 9x8x8x10
-Sumo Deadlift - 50kg 9x10x10x10
-StiffLeg DeadLift - 20kg 12x11x11
-Lunges - 10kg 9x9x9
-Standing Calf Praise - 140kg 12x12x12
-Standing Calf Praise - 170kg 6x5
-Standing crunch - 25kg 12x12x12x12 tay yếu
-Abs Movement 2 - 4x 8-12
+ - Squat - 50kg 8x8x8
+ - Leg Press - 100kg 9x8x8x10
+ - Sumo Deadlift - 50kg 9x10x10x10
+ - StiffLeg DeadLift - 20kg 12x11x11
+ - Lunges - 10kg 9x9x9
+ - Standing Calf Praise - 140kg 12x12x12
+ - Standing Calf Praise - 170kg 6x5
+ - Standing crunch - 25kg 12x12x12x12 tay yếu
+ - Abs Movement 2 - 4x 8-12
