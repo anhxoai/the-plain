@@ -11,7 +11,7 @@ tags: tapluyen, nangta
 
 22/08/2016 tập theo bài của [Quang Bangs](https://www.facebook.com/QuangBangsFitness/?fref=ts), bài tập và chế độ ăn, chương trình kéo dài 12 tuần. 
 
-Về bài tập: format của bài khá giống với các bài tập như [P.H.A.T](http://www.directlyfitness.com/store/p-h-a-t-training-layne-nortons-workout-system/), [P.H.U.L](https://www.muscleandstrength.com/workouts/phul-workout) gồm 4 ngày trong tuần và một ngày bổ trợ các nhóm cơ yếu(cá nhân mình không tập thêm ngày này), nội dung các bài tập đa số là các bài compound sử dụng tạ tay và tạ đòn mỗi lần tập có 8 bài với thời lượng tập từ 2h - 3h.
+_Về bài tập:_ format của bài khá giống với các bài tập như [P.H.A.T](http://www.directlyfitness.com/store/p-h-a-t-training-layne-nortons-workout-system/), [P.H.U.L](https://www.muscleandstrength.com/workouts/phul-workout) gồm 4 ngày trong tuần và một ngày bổ trợ các nhóm cơ yếu(cá nhân mình không tập thêm ngày này), nội dung các bài tập đa số là các bài compound sử dụng tạ tay và tạ đòn mỗi lần tập có 8 bài với thời lượng tập từ 2h - 3h.
 
 Bài tập thuộc dạng khó đối với người mới vì khối lượng và cường độ của bài rất cao, cần một thời gian làm quen với bài tập cũng như động tác cho tốt. Ngay cả khi đã quen với bài tập thì cường độ tập từ 2h - 3h/ngày, kết hợp với cường độ tập nặng nên về lâu dài đây là một bài tập khá thử thách cho những ai thực sự yêu thích. 
 
@@ -19,7 +19,7 @@ Dĩ nhiên là kết quả của bài tập cũng rất tốt với việc phân
 
 Nhìn chung, bài tập rất thử thách ở cường độ luyện tập rất cao nhưng sẽ rất khó khăn nếu bạn theo đuổi dài lâu do thời gian tập chính là sự trở ngại lớn nhất của bài tập này.
 
-
+_Về chế độ ăn:_ cá nhân mình khá tệ ở phần này nên không đánh giá được nhiều, do điều kiện không cho phép nên chỉ tập trung ăn các loại thực phẩm tốt, nhiều protein và tránh ăn các loại bánh kẹo thuần đường bột,...[mang tính tổng thể khái quát, ước lượng](http://blog.duongphi.com/dinh-duong-trong-the-hinh) nhiều hơn là macro.
 
 
 **WEEK 11 add cardio**
