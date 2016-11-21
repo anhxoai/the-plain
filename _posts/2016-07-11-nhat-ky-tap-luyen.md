@@ -8,8 +8,7 @@ tags: tapluyen, nangta
 
 ![BLS#3](https://cloud.githubusercontent.com/assets/19565657/20461819/5e782d1e-af3c-11e6-98bf-66be6cf766a5.jpg)
 
-
-
+---
 
 #### [Quang Bangs Workout](http://blog.duongphi.com/quang-bangs-workout-phase-2)
 ![Quang Bangs trước tập](https://cloud.githubusercontent.com/assets/19565657/17852071/75abaeb4-688f-11e6-8268-46438bcb8038.jpg)
