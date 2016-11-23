@@ -15,7 +15,7 @@ tags: tapluyen, nangta
 
 Bài tập thuộc dạng khó đối với người mới vì khối lượng và cường độ của bài rất cao, cần một thời gian làm quen với bài tập cũng như động tác cho tốt. Ngay cả khi đã quen với bài tập thì cường độ tập từ 2h - 3h/ngày, kết hợp tập nặng nên về lâu dài đây là một bài tập khá thử thách cho những ai thực sự yêu thích. 
 
-Dĩ nhiên là kết quả của bài tập cũng rất tốt với việc phân bố đều các nhóm cơ tập trung vào compound và mức tạ nặng nhất có thể để kích thích cơ phát triển to nhất. 
+Dĩ nhiên là kết quả của bài tập cũng rất tốt với việc phân bố đều các nhóm cơ tập trung vào compound và mức tạ nặng nhất để kích thích cơ phát triển to nhất. 
 
 Nhìn chung, bài tập rất thử thách ở cường độ luyện tập rất cao nhưng sẽ rất khó khăn nếu bạn theo đuổi dài lâu do thời gian tập chính là sự trở ngại lớn nhất của bài tập này.
 
