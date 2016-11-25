@@ -7,6 +7,8 @@ tags: tapluyen, nangta, dinhduong
 
 Đối với bộ môn thể hình tuy dễ nhưng rất khó, nó đòi hỏi ở bạn sự tận tụy ở cả việc tập luyện lẫn chế độ dinh dưỡng hàng ngày để có một cơ thể hoàn hảo. Nói đến hàng ngày có nghĩa là hàng ngày, hàng tuần, hàng tháng,... bạn cam kết giữ vững những gì bạn đang làm và phát huy nó, bảo đảm mọi thứ trở thành thói quen trong một thời gian dài. Liệu bạn có làm được?
 
+![Ted Roxy](https://cloud.githubusercontent.com/assets/19565657/20615415/4410ced0-b30c-11e6-9d6b-eea1bedfba95.jpg)
+
 Tập luyện là cả một quá trình đòi hỏi cao nhất ở người tập, đó là sự kiên nhẫn từ lúc mới bắt đầu cho đến lúc đạt được mục tiêu. Một chế độ luyện tập và chế độ dinh dưỡng thì dễ kiếm nhưng để duy trì mỗi ngày là thực sự khó vì cuộc sống của chúng ta không phải chỉ có tập và ăn mà còn có những thứ khác như công việc, quan hệ xã hội,....
 
 Tiêu biểu là mình đã rất chật vật khi phải tự tìm nguyên liệu nấu ăn (do các thực phẩm dinh dưỡng trong thể hình ít có trong thực đơn của người Việt), tự tìm công thức và tự nấu ăn trong khi đan xen thời gian tập luyện với thời gian biểu công việc hàng ngày, mà mình đã không thể duy trì việc tự nấu ăn sau một thời gian. Có thể điều kiện của mỗi người mỗi khác nhưng theo mình nghĩ đa số chúng ta sẽ rất khó theo đuổi được một chế độ ăn uống và luyện tập 100% nên mình tổng hợp lại trong bài viết này những hiểu biết và kinh nghiệm cá nhân để chúng ta có thể cân bằng giữa đam mê và cuộc sống.
