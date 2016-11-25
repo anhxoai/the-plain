@@ -17,7 +17,7 @@ Kiên nhẫn và giữ cho mọi thứ thật đơn giản là bí quyết của
 
 Bất kỳ mục tiêu nào trong cuộc sống đều cần có thời gian, nhất là các mục tiêu về kỹ năng, tiền bạc, thói quen... nếu như bạn kiên trì theo đuổi đến cùng thì chắc chắn bạn sẽ thành công, một công thức chung cho mọi người. Một cơ thể tập luyện đẹp có thể nhìn thấy được mất khoảng thời gian một năm để hình thành do đó bạn đừng vội nản nếu chỉ mới luyện tập vài tháng.
 
-**Theo Lyly McDonald lượng cơ tăng trong quá trình luyện tập tự nhiên:**
+**Theo Lyly McDonald lượng cơ tăng tự nhiên trong quá trình luyện tập:**
 
  - 1 năm: 20 - 25 pounds (2 pounds/ tháng)
  - 2 năm: 10 - 12 pounds (1 pound/ tháng)
