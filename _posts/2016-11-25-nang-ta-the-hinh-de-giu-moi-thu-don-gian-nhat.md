@@ -7,7 +7,7 @@ tags: tapluyen, nangta, dinhduong
 
 Đối với bộ môn thể hình tuy dễ nhưng rất khó, nó đòi hỏi ở bạn sự tận tụy ở cả việc tập luyện lẫn chế độ dinh dưỡng hàng ngày để có một cơ thể hoàn hảo. Nói đến hàng ngày có nghĩa là hàng ngày, hàng tuần, hàng tháng,... bạn cam kết giữ vững những gì bạn đang làm và phát huy nó, bảo đảm mọi thứ trở thành thói quen trong một thời gian dài. Liệu bạn có làm được?
 
-![Ted Roxy](https://cloud.githubusercontent.com/assets/19565657/20615415/4410ced0-b30c-11e6-9d6b-eea1bedfba95.jpg)
+[![Ted Roxy](https://cloud.githubusercontent.com/assets/19565657/20615415/4410ced0-b30c-11e6-9d6b-eea1bedfba95.jpg)](https://www.facebook.com/yu.ri.351)
 
 Tập luyện là cả một quá trình đòi hỏi cao nhất ở người tập, đó là sự kiên nhẫn từ lúc mới bắt đầu cho đến lúc đạt được mục tiêu. Một chế độ luyện tập và chế độ dinh dưỡng thì dễ kiếm nhưng để duy trì mỗi ngày là thực sự khó vì cuộc sống của chúng ta không phải chỉ có tập và ăn mà còn có những thứ khác như công việc, quan hệ xã hội,....
 
@@ -54,7 +54,7 @@ Pre-Workout: nếu chịu khó để ý thì bạn sẽ thấy thành phần tro
 
 #### Chế độ ăn uống hàng ngày
 
-![ted-eat](https://cloud.githubusercontent.com/assets/19565657/20615453/c7c37e94-b30c-11e6-88b8-ddd878ec9ca5.jpg)
+[![ted-eat](https://cloud.githubusercontent.com/assets/19565657/20615453/c7c37e94-b30c-11e6-88b8-ddd878ec9ca5.jpg)](https://www.facebook.com/yu.ri.351)
 
 Bạn cần nắm vững những kiến thức cơ bản về thức ăn trước, có thể tham khảo [bài viết mà mình đã tổng hợp](http://blog.duongphi.com/dinh-duong-trong-the-hinh). Rõ ràng một chế độ ăn uống nhiều protein, với đầy đủ chất đòi hỏi một sự đa dạng hóa trong các bữa ăn hàng ngày, ở đây để đơn giản hóa cho những bạn quá mệt mỏi với macro, mình có một số luật khi ăn mà chúng ta cần phải luôn nhớ để bảo đảm được quá trình tăng cơ.
 
