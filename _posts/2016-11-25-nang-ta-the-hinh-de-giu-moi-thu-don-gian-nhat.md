@@ -30,7 +30,7 @@ Có một mẹo nhỏ đó là thay vì nghĩ đến kết quả bạn hãy tậ
 
 ## Hãy giữ mọi thứ đơn giản
 
-Thật rất khó để tập trung giữ nhiều thói quen cùng lúc, làm sao mà có thể vừa duy trì chế độ tập luyện hàng ngày vừa đếm calo trong thức ăn lại thêm nấu nướng sao cho ăn vừa miệng mà lại không bị ngán với chế độ ăn khắt khe? thật nếu chỉ có một mình bạn sẽ rất chật vật để làm hết những điều này trừ phi bạn có nhiều thời gian rãnh. Do vậy, việc đơn giản hóa các bước có thể giúp bạn đỡ có nhiều áp lực hơn cũng như giữ được phong độ duy trì việc luyện tập và theo đuổi mục tiêu trong thời gian dài, dưới đây là một vài ý tưởng mà mình đã áp dụng mà các bạn có thể tham khảo.
+Thật rất khó để tập trung giữ nhiều thói quen cùng lúc, làm sao mà có thể vừa duy trì chế độ tập luyện hàng ngày vừa đếm calo trong thức ăn lại thêm nấu nướng sao cho ăn vừa miệng mà lại không bị ngán với chế độ ăn khắt khe? nếu chỉ có một mình bạn sẽ rất chật vật để làm hết những điều này trừ phi bạn có nhiều thời gian ưu tiên. Việc đơn giản hóa các bước có thể giúp bạn đỡ có nhiều áp lực hơn cũng như giữ được phong độ duy trì việc luyện tập và theo đuổi mục tiêu trong thời gian dài, dưới đây là một vài ý tưởng mà mình đã áp dụng mà các bạn có thể tham khảo.
 
 ### Đơn giản tập luyện
 
