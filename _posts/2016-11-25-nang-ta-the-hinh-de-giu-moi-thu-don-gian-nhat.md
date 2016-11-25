@@ -17,7 +17,7 @@ Kiên nhẫn và giữ cho mọi thứ thật đơn giản là bí quyết của
 
 Bất kỳ mục tiêu nào trong cuộc sống đều cần có thời gian, nhất là các mục tiêu về kỹ năng, tiền bạc, thói quen... nếu như bạn kiên trì theo đuổi đến cùng thì chắc chắn bạn sẽ thành công, một công thức chung cho mọi người. Một cơ thể tập luyện đẹp có thể nhìn thấy được mất khoảng thời gian một năm để hình thành do đó bạn đừng vội nản nếu chỉ mới luyện tập vài tháng. 
 
-Có một mẹo nhỏ đó là thay vì nghĩ đến kết quả bạn hãy tập trung vào quá trình tập luyện, mỗi ngày chúng ta cần cố gắng như thế nào, cảm giác khi tập luyện ra sao, không ngừng thử thách bản thân,... hãy nghĩ việc tập luyện mỗi ngày cho bạn một cơ thể khỏe mạnh và cứ với mỗi ngày tập bạn sẽ lại bước thêm một bước đến mục tiêu của mình gần hơn. Do đó, đừng bao giờ bỏ cuộc, nếu thời gian không cho phép hãy tìm một cách tập luyện nào đó phù hợp hơn, chỉ cần bạn có tập có làm để đi đến mục tiêu còn hơn là từ bỏ, từ bỏ đồng nghĩa với thất bại.
+Có một mẹo nhỏ đó là thay vì nghĩ đến kết quả bạn hãy tập trung vào quá trình tập luyện, mỗi ngày chúng ta cần cố gắng như thế nào, cảm giác khi tập luyện ra sao, không ngừng thử thách bản thân,... hãy nghĩ việc tập luyện mỗi ngày cho bạn một cơ thể khỏe mạnh và cứ với mỗi ngày tập bạn sẽ lại bước thêm một bước đến mục tiêu của mình gần hơn. Do đó, đừng bao giờ bỏ cuộc, nếu thời gian không cho phép hãy tìm một cách tập luyện nào đó phù hợp hơn, chỉ cần bạn có tập, có làm để đi đến mục tiêu còn hơn là từ bỏ, từ bỏ đồng nghĩa với thất bại.
 
 ## Hãy giữ mọi thứ đơn giản
 
