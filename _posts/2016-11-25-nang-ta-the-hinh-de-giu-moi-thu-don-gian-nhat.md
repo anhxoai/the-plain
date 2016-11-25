@@ -54,6 +54,8 @@ Pre-Workout: nếu chịu khó để ý thì bạn sẽ thấy thành phần tro
 
 #### Chế độ ăn uống hàng ngày
 
+![ted-eat](https://cloud.githubusercontent.com/assets/19565657/20615453/c7c37e94-b30c-11e6-88b8-ddd878ec9ca5.jpg)
+
 Bạn cần nắm vững những kiến thức cơ bản về thức ăn trước, có thể tham khảo [bài viết mà mình đã tổng hợp](http://blog.duongphi.com/dinh-duong-trong-the-hinh). Rõ ràng một chế độ ăn uống nhiều protein, với đầy đủ chất đòi hỏi một sự đa dạng hóa trong các bữa ăn hàng ngày, ở đây để đơn giản hóa cho những bạn quá mệt mỏi với macro, mình có một số luật khi ăn mà chúng ta cần phải luôn nhớ để bảo đảm được quá trình tăng cơ.
 
  1. Bảo đảm luôn có protein trong bữa ăn hoặc trong ngày. Lượng thịt chúng ta nên ăn ngang hoặc gần bằng với lượng cơm.
