@@ -19,10 +19,10 @@ Bất kỳ mục tiêu nào trong cuộc sống đều cần có thời gian, nh
 
 **Theo Lyly McDonald lượng cơ tăng trong quá trình luyện tập tự nhiên:**
 
-1 năm: 20 - 25 pounds (2 pounds/ tháng)
-2 năm: 10 - 12 pounds (1 pound/ tháng)
-3 năm: 4 - 6 pounds (0.5 pound/ tháng)
-4 năm: 2 - 3 pounds (không đáng để tính)
+ - 1 năm: 20 - 25 pounds (2 pounds/ tháng)
+ - 2 năm: 10 - 12 pounds (1 pound/ tháng)
+ - 3 năm: 4 - 6 pounds (0.5 pound/ tháng)
+ - 4 năm: 2 - 3 pounds (không đáng để tính)
 
 Có một mẹo nhỏ đó là thay vì nghĩ đến kết quả bạn hãy tập trung vào quá trình tập luyện, mỗi ngày chúng ta cần cố gắng như thế nào, cảm giác khi tập luyện ra sao, không ngừng thử thách bản thân,... hãy nghĩ việc tập luyện mỗi ngày cho bạn một cơ thể khỏe mạnh và cứ với mỗi ngày tập bạn sẽ lại bước thêm một bước đến mục tiêu của mình gần hơn. Do đó, đừng bao giờ bỏ cuộc, nếu thời gian không cho phép hãy tìm một cách tập luyện nào đó phù hợp hơn, chỉ cần bạn có tập, có làm để đi đến mục tiêu còn hơn là từ bỏ, từ bỏ đồng nghĩa với thất bại.
 
