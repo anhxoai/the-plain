@@ -72,4 +72,4 @@ Trên đây chỉ là những kinh nghiệm của riêng mình trong quá trình
 
 Một lần nữa mình xin nhắc lại, tập luyện là cả một quá trình dài do đó chúng ta đừng quá tập trung vào kết quả mà quên mất niềm vui của quá trình, hãy thử và thất bại rồi điều chỉnh, quá trình đó sẽ cho bạn học được nhiều điều. 
 
-Bài viết chỉ là một cái nhìn khái quát, có thể sau khi đọc xong bạn sẽ có những kinh nghiệm riêng, ý tưởng hay hơn hoặc một điều gì đó muốn chia sẻ? Hãy cùng thảo luận bên dưới bình luận nhé. Rất mong được thảo luận cùng các bạn. 
+Bài viết chỉ là một cái nhìn khái quát, có thể sau khi đọc xong bạn sẽ có những kinh nghiệm riêng, ý tưởng hay hơn hoặc một điều gì đó muốn chia sẻ? Rất mong được thảo luận cùng bạn bên dưới bình luận.
