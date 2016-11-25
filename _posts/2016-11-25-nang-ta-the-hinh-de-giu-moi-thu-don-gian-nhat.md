@@ -11,7 +11,7 @@ Tập luyện là cả một quá trình đòi hỏi cao nhất ở người t�
 
 Tiêu biểu là mình đã rất chật vật khi phải tự tìm nguyên liệu nấu ăn (do các thực phẩm dinh dưỡng trong thể hình ít có trong thực đơn của người Việt), tự tìm công thức và tự nấu ăn trong khi đan xen thời gian tập luyện với thời gian biểu công việc hàng ngày, mà mình đã không thể duy trì việc tự nấu ăn sau một thời gian. Có thể điều kiện của mỗi người mỗi khác nhưng theo mình nghĩ đa số chúng ta sẽ rất khó theo đuổi được một chế độ ăn uống và luyện tập 100% nên mình tổng hợp lại trong bài viết này những hiểu biết và kinh nghiệm cá nhân để chúng ta có thể cân bằng giữa đam mê và cuộc sống.
 
-Hai điều quan trọng nhất đó là kiên nhẫn và hãy giữ mọi thứ thật đơn giản.
+Kiên nhẫn và giữ cho mọi thứ thật đơn giản đó là bí quyết của mình.
 
 ## Tại sao phải kiên nhẫn?
 
