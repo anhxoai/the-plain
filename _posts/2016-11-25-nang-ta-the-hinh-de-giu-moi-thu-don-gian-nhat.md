@@ -50,7 +50,7 @@ Pre-Workout: nếu chịu khó để ý thì bạn sẽ thấy thành phần tro
 
 #### Chế độ ăn uống hàng ngày
 
-Bạn cần nắm vững những kiến thức cơ bản về thức ăn trước, có thể tham khảo bài viết này mà mình đã tổng hợp. Rõ ràng một chế độ ăn uống nhiều protein, với đầy đủ chất đòi hỏi một sự đa dạng hóa trong các bữa ăn hàng ngày, ở đây để đơn giản hóa cho những bạn quá mệt mỏi với macro, mình có một số luật khi ăn mà chúng ta cần phải luôn nhớ để bảo đảm được quá trình tăng cơ.
+Bạn cần nắm vững những kiến thức cơ bản về thức ăn trước, có thể tham khảo [bài viết mà mình đã tổng hợp](http://blog.duongphi.com/dinh-duong-trong-the-hinh). Rõ ràng một chế độ ăn uống nhiều protein, với đầy đủ chất đòi hỏi một sự đa dạng hóa trong các bữa ăn hàng ngày, ở đây để đơn giản hóa cho những bạn quá mệt mỏi với macro, mình có một số luật khi ăn mà chúng ta cần phải luôn nhớ để bảo đảm được quá trình tăng cơ.
 
  1. Bảo đảm luôn có protein trong bữa ăn hoặc trong ngày. Lượng thịt chúng ta nên ăn ngang hoặc gần bằng với lượng cơm.
  2. Tránh ăn nhiều các loại bột đuờng như bánh, cơm, nước ngọt, bia... nếu có thể thì tập thói quen ăn cơm ít lại trong mỗi bữa ăn hoặc thay thế cơm bằng gạo lức.
