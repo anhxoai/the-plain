@@ -2,7 +2,7 @@
 layout: post
 date: 2016-11-25
 title: Nâng tạ, thể hình, để giữ mọi thứ đơn giản nhất
-tags: tapluyen, nangta, dinhduong
+tags: [tapluyen, nangta, dinhduong]
 ---
 
 Đối với bộ môn thể hình tuy dễ nhưng rất khó, nó đòi hỏi ở bạn sự tận tụy ở cả việc tập luyện lẫn chế độ dinh dưỡng hàng ngày để có một cơ thể hoàn hảo. Nói đến hàng ngày có nghĩa là hàng ngày, hàng tuần, hàng tháng,... bạn cam kết giữ vững những gì bạn đang làm và phát huy nó, bảo đảm mọi thứ trở thành thói quen trong một thời gian dài. Liệu bạn có làm được?
