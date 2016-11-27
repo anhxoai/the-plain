@@ -55,5 +55,5 @@ Bạn đã thử Evernote chưa? bạn nghĩ gì về nó? thảo luận cùng m
 Tham khảo:
 
  - [I've Been Using Evernote All Wrong. Here's Why It's Actually Amazing](http://lifehacker.com/5989980/ive-been-using-evernote-all-wrong-heres-why-its-actually-amazing)
- - [evernote | Tinhte.vn](https://tinhte.vn/tags/evernote/)
+ - [evernote Tinhte.vn](https://tinhte.vn/tags/evernote/)
 
