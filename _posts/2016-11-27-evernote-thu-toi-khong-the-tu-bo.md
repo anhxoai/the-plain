@@ -49,5 +49,8 @@ Chia sẻ với các bạn một điều mà mình chưa hài lòng đó là Eve
 
 Bạn đã thử Evernote chưa? bạn nghĩ gì về nó? thảo luận cùng mình qua comment bên dưới nhé.
 
+Tham khảo:
 
+ - [I've Been Using Evernote All Wrong. Here's Why It's Actually Amazing](http://lifehacker.com/5989980/ive-been-using-evernote-all-wrong-heres-why-its-actually-amazing)
+ - [evernote | Tinhte.vn](https://tinhte.vn/tags/evernote/)
 
