@@ -1,21 +1,6 @@
 ---
 layout: default
 ---
-{% assign post = page %}
-{% if post.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
-   	{% for post_tag in post.tags %}
-   	 {% assign tag = site.data.tags[post_tag] %}
-            {% endif %}
-        {% endfor %}
-        {% if tag %}
-            {% capture tags_content_temp %}{{ tags_content }}<a href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
-            {% assign tags_content = tags_content_temp %}
-        {% endif %}
-    {% endfor %}
-{% else %}
-    {% assign tags_content = '' %}
-{% endif %}
 <noscript>
 	<style>
 
@@ -31,7 +16,6 @@ layout: default
 	<div class="center">
 		<h1>{{ page.title }}</h1>
 		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
-		<p id="post-meta">{{ tags_content }}</p>
 	</div>
 
 	<div class="divider"></div>
