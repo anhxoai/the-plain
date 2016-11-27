@@ -22,9 +22,9 @@ Việc hỗ trợ di động chính là điều tuyệt vời nhất, Evernote c
 
 ### Hỗ trợ tốt định dạng văn bản, đính kèm hình ảnh hay bất cứ tập tin tài liệu nào mà bạn muốn.
 
-"Một hình ảnh đáng giá hàng triệu từ ngữ", tuy nhu cầu đính kèm hình ảnh, tập tin là không nhiều nhưng vẫn rất cần thiết khi có nhu cầu sử dụng chẳng hạn như chụp bìa một quyển sách để sau này tìm đọc hoặc một thứ gì đó cần ghi nhớ.
-
 Nếu nói về định dạng văn bản thì theo mình Evernote chỉ thua Onenote của Microsoft vốn có lợi thế ở mảng Office. Nhưng ở Evernote tất cả những gì chúng ta cần là quá đủ nó không quá phức tạp và cũng đủ đơn giản để sử dụng cho các mục đích như ghi chú lại vài điều cần nhớ.
+
+"Một hình ảnh đáng giá hàng triệu từ ngữ", tuy nhu cầu của mình là đính kèm hình ảnh, tập tin không nhiều nhưng vẫn rất cần thiết khi cần sử dụng chẳng hạn như chụp bìa một quyển sách, danh thiếp hay giấy tờ quan trọng.
 
 ### Sắp xếp ghi chú theo notebooks và tags một cách khoa học
 
