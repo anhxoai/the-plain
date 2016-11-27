@@ -43,6 +43,8 @@ Evernote sẽ trở nên tuyệt vời hơn bao giờ hết nếu bạn sử d�
 
 ---
 
+Mặc dù với những điểm trừ gần đây như tăng giá dịch vụ, giảm hỗ trợ người dùng miễn phí xuống còn hai thiết bị thì Evernote vẫn là thứ tuyệt nhất mà chưa có gì thay thế được trong lĩnh vực mà nó đang làm tốt (chí ít là đối với cá nhân người viết).
+
 Chia sẻ với các bạn một điều mà mình chưa hài lòng đó là Evernote chưa hỗ trợ một ứng dụng chính thức trên Linux trong khi mình đang rất muốn chuyển sang sử dụng Linux làm hệ điều hành chính. Nhưng phải thừa nhận, Evernote hiện nay quá hữu dụng mà mình khó có thể từ bỏ dịch vụ này, việc chuyển đổi sang một dịch vụ khác (nếu có) cũng là cả một vấn đề lớn vì nội dung lưu lại cũng đã nhiều. 
 
 Bạn đã thử Evernote chưa? bạn nghĩ gì về nó? thảo luận cùng mình qua comment bên dưới nhé.
