@@ -11,6 +11,9 @@ Hiện nay, việc sử dụng ghi chú điện tử (digital note taking) trở
 
 Nếu nói về ghi chú điện tử chúng ta sẽ có rất rất nhiều phần mềm với những tính năng nổi bật khác nhau nhưng đối với mình ứng dụng [Evernote](https://evernote.com/) là thứ tuyệt vời nhất trong lĩnh vực mà ít nhất là ở hiện tại mình chưa thấy có cái nào tốt hơn để thay thế. Và dưới đây là vì sao?
 
+![evernote](https://cloud.githubusercontent.com/assets/19565657/20648296/8b48b0a4-b4d5-11e6-9a02-b55b4047e779.jpg)
+
+
 ### Evernote hỗ trợ đa nền tảng kể cả di động
 
 Evenote hỗ trợ trên tất cả các nền tảng phổ biến nhất hiện nay: Windows, Mac, Web, Android, iOS như vậy mình có thể mang các ghi chú của mình theo bất kỳ nơi nào để xem lại hoặc ghi chú khi cần thiết với tính năng đồng bộ qua mạng Internet để bảo đảm tất cả nội dung đều giống nhau trên tất cả các thiết bị. Một điểm nổi bật nhất mà ít có phần mềm ghi chú nào có được.
