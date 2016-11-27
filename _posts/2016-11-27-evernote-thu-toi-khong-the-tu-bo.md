@@ -18,7 +18,7 @@ Nếu nói về ghi chú điện tử chúng ta sẽ có rất rất nhiều ph�
 
 Evenote hỗ trợ trên tất cả các nền tảng phổ biến nhất hiện nay: Windows, Mac, Web, Android, iOS như vậy mình có thể mang các ghi chú của mình theo bất kỳ nơi nào để xem lại hoặc ghi chú khi cần thiết với tính năng đồng bộ qua mạng Internet để bảo đảm tất cả nội dung đều giống nhau trên tất cả các thiết bị. Một điểm nổi bật nhất mà ít có phần mềm ghi chú nào có được.
 
-Việc hỗ trợ di động chính là điều tuyệt vời nhất, chẳng những hỗ trợ mà còn tích hợp sâu giúp sử dụng các công cụ số như chụp ảnh, ghi âm hay viết tay một cách tiện dụng nhất. Với Evernote, chiếc điện thoại của bạn sẽ trở thành một công cụ đắc lực nhất trong học hành và công việc.
+Việc hỗ trợ di động chính là điều tuyệt vời nhất, Evernote chẳng những hỗ trợ mà còn tích hợp sâu giúp sử dụng các công cụ số như chụp ảnh, ghi âm hay viết tay một cách tiện dụng nhất. Với Evernote, chiếc điện thoại của bạn sẽ trở thành một công cụ đắc lực nhất trong học hành và công việc.
 
 ### Hỗ trợ tốt định dạng văn bản, đính kèm hình ảnh hay bất cứ tập tin tài liệu nào mà bạn muốn.
 
