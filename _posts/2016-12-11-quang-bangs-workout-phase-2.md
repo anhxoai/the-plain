@@ -2,7 +2,7 @@
 layout: post
 date: 2016-11-12
 title: Quang Bangs workout Phase 2
-tags: tapluyen, nangta
+tags: tapluyen
 ---
 
 ## Quang Bangs Workout
