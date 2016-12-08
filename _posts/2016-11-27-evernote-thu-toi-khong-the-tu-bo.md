@@ -2,7 +2,7 @@
 layout: post
 date: 2016-11-27
 title: Evernote thứ tôi không thể từ bỏ
-tags: nangsuatlamviec, congcu, gioithieu
+tags: congcu
 ---
 
 Ghi chú là một công cụ hỗ trợ rất tốt cho công việc và học tập lẫn trong đời sống hàng ngày. Trước đây thì chúng ta sử dụng giấy, bút để ghi chú, sẽ không là vấn đề nếu đó chỉ là những ghi chú thường ngày không quan trọng, có giá trị trong thời gian ngắn nhưng nếu như bạn muốn lưu trữ lâu dài thì sao? chắc chắn số lượng ghi chú sẽ ngày càng nhiều lên và bạn sẽ trở nên khó khăn hơn trong việc cất giữ, tìm kiếm những nội dung cũ. 
