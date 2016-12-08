@@ -295,6 +295,52 @@ article {
       border: 0;
     }
   }
+  .tags {
+    font-size: 80%;
+    a {
+      border: 1px solid #ddd;
+      background: #f3f3f3;
+      padding-left: 4px;
+      padding-right: 4px;
+      margin-right: 1px;
+      display: inline-block;
+      margin-top: 3px;
+    }
+    a:hover {
+      background: #eee;
+    }
+  }
+}
+a.tag-label {
+  font-size: 80%;
+  border: 1px solid #ddd;
+  background: #f3f3f3;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-right: 4px;
+  display: inline-block;
+  margin-top: 4px;
+  span {
+    background: #ccc;
+    color: #666;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+}
+.vertical-spacer {
+  height: 50px;
+  display: block;
+}
+.go-top-block {
+  text-align: left;
+  display: block;
+  a.go-top {
+    text-decoration: none;
+    border-bottom: none;
+    color: #777;
+    font-size: 80%;
+    font-family: monospace;
+  }
 }
 .back {
   text-align: center;
