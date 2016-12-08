@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thời gian nghĩ giữa các hiệp là bao nhiêu thì tốt nhất?
-tags: tapluyen, nangta
+tags: nangta
 ---
 Đây có lẽ cũng là câu hỏi của nhiều người khi tập mà chúng ta vẫn thường tin vào lời của Huấn Luyện Viên hoặc các người đi trước. Tuy nhiên, chúng ta cần biết rõ tại sao và nên như thế nào là tốt nhất cho mục tiêu tập luyện của mình, có cả một khoa học ở phía sau đấy.
 
