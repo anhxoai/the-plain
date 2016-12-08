@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ăn uống, dinh dưỡng trong thể hình
-tags: thehinh, dinhduong  
+tags: dinhduong
 ---
 
 ![che-do-an-uong-dinh-duong-cho-nguoi-tap-the-hinh](https://cloud.githubusercontent.com/assets/19565657/19036464/30749c26-899a-11e6-89d0-28d436ca4604.jpg)
