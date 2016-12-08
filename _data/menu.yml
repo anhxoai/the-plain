@@ -1,5 +1,7 @@
 - text: workoutlog
   url: /nhat-ky-tap-luyen
+- text: tags
+  url: /tags
 #- text: 
 #  url: 
 #  subitems:
