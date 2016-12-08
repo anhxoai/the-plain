@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thể hình nam cho người mới bắt đầu
-tags: nangta, tapluyen
+tags: nangta
 ---
 Trong bài viết này tôi chỉ xin chia sẻ lại những hiểu biết của mình trong những ngày đầu luyện tập, mặc dù vẫn còn là một newbie nhưng các thông tin dưới đây được tổng hợp lại từ các nguồn đáng tin cậy, là những điều cần biết cho những người mới.
 
