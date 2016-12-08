@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-12
 title: Bigger Leaner Stronger Phase 1
-tags: tapluyen, nangta
+tags: tapluyen
 ---
 
 ## Bigger Leaner Stronger
