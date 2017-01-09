@@ -4,7 +4,7 @@ date: 2017-01-09
 title: Bigger Leaner Stronger Phase 3
 tags: tapluyen
 ---
-## Bigger Leaner Stronger
+## Bigger Leaner Stronger Phase 3
 
 ![BLS#3](https://cloud.githubusercontent.com/assets/19565657/20461819/5e782d1e-af3c-11e6-98bf-66be6cf766a5.jpg)
 
@@ -361,4 +361,4 @@ Kết quả: tuy thời lượng tập ít nhưng sự phát triển là nhìn t
  - Close-Grip Bench Press - 40kg 6x6x6
  - Hammer Curl - 15kg 6x6x6
  - Triceps Push Down - 17.5kg 6x6x6
-  - 3 ab circuits
+ - 3 ab circuits
