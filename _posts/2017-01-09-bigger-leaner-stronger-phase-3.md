@@ -105,180 +105,177 @@ Kết quả: tuy thời lượng tập ít nhưng sự phát triển là nhìn t
  - Triceps Push Down - 20kg 6x6x6
  - 3 ab circuits
 
-WEEK 6
+**WEEK 6**
 
-Day 1: Thứ hai 12/12/2016 Chest & Abs - Max Out Cardio
+**Day 1: Thứ hai 12/12/2016 Chest & Abs - Max Out Cardio**
 
-Incline Dumbbell Bench Press - 27.5kg 6x6x6
-Incline Barbell Bench Press - 50kg 6x6x6
-Flat Dumbebell Bench Press - 27.5kg 6x6x6
-Facebull -  20kg 10x10x10
-3 ab circuits
+ - Incline Dumbbell Bench Press - 27.5kg 6x6x6
+ - Incline Barbell Bench Press - 50kg 6x6x6
+ - Flat Dumbebell Bench Press - 27.5kg 6x6x6
+ - Facebull -  20kg 10x10x10
+ - 3 ab circuits
 
-Day 2: Back & Calves - Max Out Power
+**Day 2: Back & Calves - Max Out Power**
 
-Barbell Deadlift - 85kg 6x6x6 hard last set
-T-Bar Row - 55kg 6x6x5
-Seated Cable Row - 59kg 6x6x6 hard
-Wide grip Lat pull down - 44kg 6x6x6
-Barbell Shrug - 60kg 10x10 smith machine
-Standing Calf Raise - 200kg 12x12x12
-Seated Calf Raise - 40kg 10x8x8
+ - Barbell Deadlift - 85kg 6x6x6 hard last set
+ - T-Bar Row - 55kg 6x6x5
+ - Seated Cable Row - 59kg 6x6x6 hard
+ - Wide grip Lat pull down - 44kg 6x6x6
+ - Barbell Shrug - 60kg 10x10 smith machine
+ - Standing Calf Raise - 200kg 12x12x12
+ - Seated Calf Raise - 40kg 10x8x8
 
-Day 3: Shoulders & Abs - Max Out Sweat
+**Day 3: Shoulders & Abs - Max Out Sweat**
 
-Seated Barbell Military Press - 32.5kg 6x6x6 hard
-Seated Dumbbell Press - 22.5kg 6x5x5
-Side Lateral Raise - 10kg 6x6x6 increase to 12.5 next time
-3 ab circuits
+ - Seated Barbell Military Press - 32.5kg 6x6x6 hard
+ - Seated Dumbbell Press - 22.5kg 6x5x5
+ - Side Lateral Raise - 10kg 6x6x6 increase to 12.5 next time
+ - 3 ab circuits
 
-Day 4: Legs - Max Out Strength
+**Day 4: Legs - Max Out Strength**
 
-Barbell Squat - 80kg 6x6x6
-Dumbbell Lunge - 22.5kg 6x6x6 hard
-Seated Calf Raise - 40kg 10x10x10
-Standing Calf Raise - 200kg 12x12x12
+ - Barbell Squat - 80kg 6x6x6
+ - Dumbbell Lunge - 22.5kg 6x6x6 hard
+ - Seated Calf Raise - 40kg 10x10x10
+ - Standing Calf Raise - 200kg 12x12x12
 
-Day 5: Upper Body & Abs - Fight Round 2
+**Day 5: Upper Body & Abs - Fight Round 2**
 
-Flat Barbell Bench Press - 50kg 10x10x10
-Barbell Curl - 30kg 6x6x6
-Close-Grip Bench Press - 45kg 6x6x6
-Hammer Curl - 12.5kg 6x6x6
-Triceps Push Down - 20kg 6x6x6
-3 ab circuits
+ - Flat Barbell Bench Press - 50kg 10x10x10
+ - Barbell Curl - 30kg 6x6x6
+ - Close-Grip Bench Press - 45kg 6x6x6
+ - Hammer Curl - 12.5kg 6x6x6
+ - Triceps Push Down - 20kg 6x6x6
+ - 3 ab circuits
 
+**WEEK 5**
 
+**Day 1: Thứ hai 05/12/2016 Chest & Abs - Max Out Cardio**
 
-WEEK 5
+ - Incline Dumbbell Bench Press - 27.5kg 6x6x5
+ - Incline Barbell Bench Press - 47.5kg 6x6x6
+ - Flat Dumbebell Bench Press - 27.5kg 6x6x6
+ - Facebull -  20kg 10x10x10
+ - 3 ab circuits
 
-Day 1: Thứ hai 05/12/2016 Chest & Abs - Max Out Cardio
+**Day 2: Back & Calves - Max Out Power**
 
-Incline Dumbbell Bench Press - 27.5kg 6x6x5
-Incline Barbell Bench Press - 47.5kg 6x6x6
-Flat Dumbebell Bench Press - 27.5kg 6x6x6
-Facebull -  20kg 10x10x10
-3 ab circuits
+ - Barbell Deadlift - 80kg 6x6x6 hard
+ - T-Bar Row - 55kg 6x5x5
+ - Seated Cable Row - 59kg 6x6x6 hard
+ - Wide grip Lat pull down - 44kg 6x6x6
+ - Barbell Shrug - 40kg 10x10
+ - Standing Calf Raise - 180kg 12x12x12
+ - Seated Calf Raise - 40kg 10x8x8
 
-Day 2: Back & Calves - Max Out Power
+**Day 3: Shoulders & Abs - Max Out Sweat**
 
-Barbell Deadlift - 80kg 6x6x6 hard
-T-Bar Row - 55kg 6x5x5
-Seated Cable Row - 59kg 6x6x6 hard
-Wide grip Lat pull down - 44kg 6x6x6
-Barbell Shrug - 40kg 10x10
-Standing Calf Raise - 180kg 12x12x12
-Seated Calf Raise - 40kg 10x8x8
+ - Seated Barbell Military Press - 30kg 6x6x6 increase the weight next time
+ - Seated Dumbbell Press - 22.5kg 6x5x5
+ - Side Lateral Raise - 10kg 6x6x6
+ - 3 ab circuits
 
-Day 3: Shoulders & Abs - Max Out Sweat
+**Day 4: Legs - Max Out Strength**
 
-Seated Barbell Military Press - 30kg 6x6x6 increase the weight next time
-Seated Dumbbell Press - 22.5kg 6x5x5
-Side Lateral Raise - 10kg 6x6x6
-3 ab circuits
+ - Barbell Squat - 75kg 6x6x6
+ - Dumbbell Lunge - 22.5kg 6x6x6 hard
+ - Seated Calf Raise - 40kg 8-10
+ - Standing Calf Raise - 190kg
 
-Day 4: Legs - Max Out Strength
+**Day 5: Upper Body & Abs - Fight Round 2**
 
-Barbell Squat - 75kg 6x6x6
-Dumbbell Lunge - 22.5kg 6x6x6 hard
-Seated Calf Raise - 40kg 8-10
-Standing Calf Raise - 190kg
+ - Flat Barbell Bench Press - 47.5kg 10x10x8
+ - Barbell Curl - 30kg 6x6x6 hard
+ - Close-Grip Bench Press - 45kg 6x6x6
+ - Hammer Curl - 12.5kg 6x6x6
+ - Triceps Push Down - 20kg 6x6x6
+ - 3 ab circuits
 
-Day 5: Upper Body & Abs - Fight Round 2
+**WEEK 4**
 
-Flat Barbell Bench Press - 47.5kg 10x10x8
-Barbell Curl - 30kg 6x6x6 hard
-Close-Grip Bench Press - 45kg 6x6x6
-Hammer Curl - 12.5kg 6x6x6
-Triceps Push Down - 20kg 6x6x6
-3 ab circuits
+**Day 1: Thứ hai 29/11/2016 Chest & Abs - Max Out Cardio**
 
+ - Incline Dumbbell Bench Press - 27.5kg 6x6x6
+ - Incline Barbell Bench Press - 47.5kg 6x6x6
+ - Flat Dumbebell Bench Press - 27.5kg 6x6x6
+ - Facebull -  20kg 10x10x10
+ - 3 ab circuits
 
-WEEK 4
+**Day 2: Back & Calves - Max Out Power**
 
-Day 1: Thứ hai 29/11/2016 Chest & Abs - Max Out Cardio
+ - Barbell Deadlift - 80kg 6x6x6 hard
+ - T-Bar Row - 55kg 6x5x5
+ - Seated Cable Row - 59kg 6x6x6 hard
+ - Reverse grip Pull Up - 4x4x4
+ - Barbell Shrug - 40kg 10x10
+ - Standing Calf Raise - 180kg 12x12x12
+ - Seated Calf Raise - 40kg 10x8x8
 
-Incline Dumbbell Bench Press - 27.5kg 6x6x6
-Incline Barbell Bench Press - 47.5kg 6x6x6
-Flat Dumbebell Bench Press - 27.5kg 6x6x6
-Facebull -  20kg 10x10x10
-3 ab circuits
+**Day 3: Shoulders & Abs - Max Out Strength Max Out Sweat**
 
-Day 2: Back & Calves - Max Out Power
+ - Seated Barbell Military Press - 30kg 6x6x6 hard
+ - Seated Dumbbell Press - 22.5kg 6x5x5
+ - Side Lateral Raise - 10kg 6x6x6
+ - 3 ab circuits
 
-Barbell Deadlift - 80kg 6x6x6 hard
-T-Bar Row - 55kg 6x5x5
-Seated Cable Row - 59kg 6x6x6 hard
-Reverse grip Pull Up - 4x4x4
-Barbell Shrug - 40kg 10x10
-Standing Calf Raise - 180kg 12x12x12
-Seated Calf Raise - 40kg 10x8x8
+**Day 4: Legs - Max Out Sweat**
 
-Day 3: Shoulders & Abs - Max Out Strength Max Out Sweat
+ - Barbell Squat - 75kg 6x6x6
+ - Dumbbell Lunge - 22.5kg 6x6x6 hard
+ - Seated Calf Raise - 40kg 8-10
+ - Standing Calf Raise - 190kg
 
-Seated Barbell Military Press - 30kg 6x6x6 hard
-Seated Dumbbell Press - 22.5kg 6x5x5
-Side Lateral Raise - 10kg 6x6x6
-3 ab circuits
+**Day 5: Upper Body & Abs - Fight Round 2**
 
-Day 4: Legs - Max Out Sweat
+ - Flat Barbell Bench Press - 47.5kg 10x10x8
+ - Barbell Curl - 30kg 6x6x6 hard
+ - Close-Grip Bench Press - 40kg 6x6x6
+ - Hammer Curl - 12.5kg 6x6x6
+ - Triceps Push Down - 20kg 6x6x6
+ - 3 ab circuits
 
-Barbell Squat - 75kg 6x6x6
-Dumbbell Lunge - 22.5kg 6x6x6 hard
-Seated Calf Raise - 40kg 8-10
-Standing Calf Raise - 190kg
+**WEEK 3**
 
-Day 5: Upper Body & Abs - Fight Round 2
+**Day 1: Thứ hai 21/11/2016 Chest & Abs - Max Out Cardio**
 
-Flat Barbell Bench Press - 47.5kg 10x10x8
-Barbell Curl - 30kg 6x6x6 hard
-Close-Grip Bench Press - 40kg 6x6x6
-Hammer Curl - 12.5kg 6x6x6
-Triceps Push Down - 20kg 6x6x6
-3 ab circuits
+ - Incline Dumbbell Bench Press - 27.5kg 6x6x6
+ - Incline Barbell Bench Press - 45kg 6x6x6
+ - Flat Dumbebell Bench Press - 27.5kg 6x6x6
+ - Facebull -  20kg 10x10x10
+ - 3 ab circuits
 
-WEEK 3
+**Day 2: Back & Calves - Max Out Power**
 
-Day 1: Thứ hai 21/11/2016 Chest & Abs - Max Out Cardio
+ - Barbell Deadlift - 75kg 6x6x6 hard
+ - T-Bar Row - 50kg 6x6x6 hard
+ - Seated Cable Row - 64kg 6x6x6
+ - Reverse grip Pull Up - 5x5x4
+ - Barbell Shrug - 40kg 10x10
+ - Standing Calf Raise - 160kg 6x6x6
+ - Seated Calf Raise - 3x6 skipped
 
-Incline Dumbbell Bench Press - 27.5kg 6x6x6
-Incline Barbell Bench Press - 45kg 6x6x6
-Flat Dumbebell Bench Press - 27.5kg 6x6x6
-Facebull -  20kg 10x10x10
-3 ab circuits
+**Day 3: Shoulders & Abs - Max Out Strength Max Out Sweat**
 
-Day 2: Back & Calves - Max Out Power
+ - Seated Barbell Military Press - 30kg 6x6x6 hard
+ - Seated Dumbbell Press - 22.5kg 6x6x6 
+ - Side Lateral Raise - 10kg 6x6x6
+ - 3 ab circuits
 
-Barbell Deadlift - 75kg 6x6x6 hard
-T-Bar Row - 50kg 6x6x6 hard
-Seated Cable Row - 64kg 6x6x6
-Reverse grip Pull Up - 5x5x4
-Barbell Shrug - 40kg 10x10
-Standing Calf Raise - 160kg 6x6x6
-Seated Calf Raise - 3x6 skipped
+**Day 4: Legs - Max Out Sweat**
 
-Day 3: Shoulders & Abs - Max Out Strength Max Out Sweat
+ - Barbell Squat - 75kg 6x6x6
+ - Dumbbell Lunge - 20kg 6x6x6 hard
+ - Seated Calf Raise - 30kg 8-10
+ - Standing Calf Raise - 160kg skipped
 
-Seated Barbell Military Press - 30kg 6x6x6 hard
-Seated Dumbbell Press - 22.5kg 6x6x6 
-Side Lateral Raise - 10kg 6x6x6
-3 ab circuits
+**Day 5: Upper Body & Abs - Fight Round 2**
 
-Day 4: Legs - Max Out Sweat
-
-Barbell Squat - 75kg 6x6x6
-Dumbbell Lunge - 20kg 6x6x6 hard
-Seated Calf Raise - 30kg 8-10
-Standing Calf Raise - 160kg skipped
-
-Day 5: Upper Body & Abs - Fight Round 2
-
-Flat Barbell Bench Press - 47.5kg 10x9x9
-Barbell Curl - 30kg 6x6x6 hard
-Close-Grip Bench Press - 40kg 6x6x6
-Hammer Curl - 12.5kg 6x6x6
-Triceps Push Down - 20kg 6x6x6
-3 ab circuits
+ - Flat Barbell Bench Press - 47.5kg 10x9x9
+ - Barbell Curl - 30kg 6x6x6 hard
+ - Close-Grip Bench Press - 40kg 6x6x6
+ - Hammer Curl - 12.5kg 6x6x6
+ - Triceps Push Down - 20kg 6x6x6
+ - 3 ab circuits
 
 WEEK 2
 
