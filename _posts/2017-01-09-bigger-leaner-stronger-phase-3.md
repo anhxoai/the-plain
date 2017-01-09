@@ -8,9 +8,9 @@ tags: tapluyen
 
 ![BLS#3](https://cloud.githubusercontent.com/assets/19565657/20461819/5e782d1e-af3c-11e6-98bf-66be6cf766a5.jpg)
 
-Trở về với BLS, bắt đầu từ 26/12/2016, giai đoạn tập trung Cardio, giảm calorie tiêu thụ để giảm mỡ.
+Trở về với BLS, bắt đầu từ 05/11/2016, giai đoạn tập trung Cardio, giảm calorie tiêu thụ để giảm mỡ.
 
-Do thời gian tập của bài Quang Bangs quá nhiều (khoảng 3h cho mỗi buổi tập) cùng với cường độ bài tập cao, do phải sắp xếp lại công việc và thời gian biểu nên mình trở lại với bài BLS ở phase #3.
+Do thời gian tập của bài [Quang Bangs](http://blog.duongphi.com/quang-bangs-workout-phase-2) quá nhiều (khoảng 3h cho mỗi buổi tập) cùng với cường độ bài tập cao, do phải sắp xếp lại công việc và thời gian biểu nên mình trở lại với bài BLS ở phase #3.
 
 Nhìn chung BLS cũng với phương pháp tập Max nặng ở khoảng 4-6rep cho mỗi set, chương trình vừa đủ tạo thử thách cũng như thời gian không quá dài trong mỗi buổi tập, phân đều cho năm ngày trong tuần Ngực - Lưng - Vai - Chân - Tay. 
 
