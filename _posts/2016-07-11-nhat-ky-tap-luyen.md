@@ -4,9 +4,20 @@ date: 2016-07-11
 title: Nhật ký tập luyện thể hình
 tags: tapluyen nangta
 ---
-#### [Bigger Leaner Stronger Phase #3]
+
+#### [Bigger Leaner Stronger Phase #4]
+
+![bls 4](https://cloud.githubusercontent.com/assets/19565657/21761869/608bc7d2-d688-11e6-9c93-b66b4b585308.png)
+
+---
+
+#### [Bigger Leaner Stronger Phase #3](http://blog.duongphi.com/bigger-leaner-stronger-phase-3)
 
 ![BLS#3](https://cloud.githubusercontent.com/assets/19565657/20461819/5e782d1e-af3c-11e6-98bf-66be6cf766a5.jpg)
+
+Bắt đầu từ 06/11/2016
+
+BLS với cường độ tập thấp hơn nhưng vẫn áp dụng phương pháp tập Max nặng nhưng với số lần đẩy chỉ từ 4-6 bài tập cho mình mức tăng cơ khá tốt, theo cảm nhận cá nhân là tốt hơn bài Quang Bangs. Kết hợp với Cardio cùng chế độ ăn giảm Calo để giảm mỡ, hiệu quả cho thấy khá tốt, mình sẽ duy trì phương pháp này cho các phase sau.
 
 ---
 
