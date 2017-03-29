@@ -11,8 +11,6 @@ Tên của mình là Phi, mình sinh năm 1990, hiện đang kinh doanh [điện
 
 Facebook: [fb.com/nguyenphi](http://fb.com/nguyenphi)
 
-Slack Channel: [duongphi.slack.com](duongphi.slack.com) (Slack hỗ trợ tốt để chat nhóm với các công cụ rất hữu ích, mọi người có thể vào để cùng thảo luận về một đề tài mà mình chia sẻ trên blog)
-
 **Cảm ơn các bạn đã quan tâm.**
 
 Enjoy!
