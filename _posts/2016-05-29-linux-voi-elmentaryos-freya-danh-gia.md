@@ -53,13 +53,3 @@ Do được build trên Ubuntu nên các vấn đề gặp phải trên Elementa
 ElementaryOS hiện là OS Linux chính của tôi thay vì Ubuntu vì giao diện và cách tiếp cận tối giản (Minimal Design) của nguời phát riển thay vì phải ôm đồm qúa nhiều thứ như các phiên bản Linux khác. 
 
 Mặc dù là một cái tên mới nhưng độ ổn định của ElementaryOS là rất tốt và hầu như tôi không gặp bất kỳ vấn đề đáng kể khi sử dụng. Phiên bản ổn định nhất hiện tại là 0.32 với tên mã là Freya.
-
-
-
-
-
-
-
-
-
-
