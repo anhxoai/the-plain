@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-07-12
+date: 2017-06-27
 title: Ngừng chia sẻ log tập
 tags: tapluyen
 ---
