@@ -8,7 +8,7 @@ Hiện có nhiều bạn nhắn tin trực tiếp facebook của mình để xin
 
 Nhân tiện đây mình sẽ làm rõ một vài vấn đề tại sao bạn nên ngừng đi xin bài của anh Quang từ các học viên khác.
 
-Trước khi nhận coach anh Quang có hỏi một số câu hỏi liên quan đến *thể trạng và lối sống và mục tiêu tập luyện* của học viên mà dựa vào đó để lên lịch tập, tùy vào điều kiện mà mỗi người sẽ mỗi khác nhau ở các bài tập và khối lượng bài tập, do đó việc quơ đại các bài tập của những người đã tập và tập theo một cách mù quáng sẽ ảnh hưởng rất nhiều hoặc gây tác dụng ngược đến bạn là không hiệu quả.
+Trước khi nhận coach, anh Quang có hỏi một số câu hỏi liên quan đến *thể trạng và lối sống và mục tiêu tập luyện* của học viên mà dựa vào đó để lên lịch tập, tùy vào điều kiện mà mỗi người sẽ mỗi khác nhau ở các bài tập và khối lượng bài tập, do đó việc quơ đại các bài tập của những người đã tập và tập theo một cách mù quáng sẽ ảnh hưởng rất nhiều hoặc gây tác dụng ngược đến bạn là không hiệu quả.
 Ví dụ: bạn là một người gầy, đang cần tập cho to lên nhưng một học viên khác lại share cho bạn lịch dành cho người to đang xiết, kết quả thì bạn cũng hiểu rồi đó.
 
 Còn về lịch tập của mình dành cho các bạn tò mò, như đã nói ở bài viết chia sẻ [Quang Bang Work Out](http://blog.duongphi.com/quang-bangs-workout-phase-2) thì bài tập này khối lượng khá nhiều và tập rất mệt, còn thời gian tập là ở tùy mỗi người nhưng riêng mình thì cần 2 - 3h để hoàn thành. Lý do là vì đây là lịch bulk và mục tiêu của mình lúc xin nhận coach của anh Quang là càng to càng tốt nên anh ấy soạn cho mình một bài max to.
